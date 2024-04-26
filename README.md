@@ -15,4 +15,11 @@
 </a>&nbsp;&nbsp;
 </p>
 
-### Call of Duty: World at War	2008
+### Call of Duty: World at War
+**[ZM] Discarded V3** : Clique [ici](https://www.mediafire.com/file/9nd4586xx0fhehv/Discarded+V3+-+T4+Mod+Menu.7z/file)
+How to use ?
+Open the menu: Aim key + Use key
+Confirm: Use key
+Cancel: Knife key
+Go down: Shoot key
+Go up: Aim key
