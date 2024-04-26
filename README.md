@@ -10,8 +10,8 @@
  <a href="https://discord.gg/cod-fr">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="#">
-  <img alt="https://www.youtube.com/channel/UCemI3wc64mr-lCyVysZZ0Eg" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  <a href="https://www.youtube.com/channel/UCemI3wc64mr-lCyVysZZ0Eg">
+  <img alt="" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>&nbsp;&nbsp;
 </p>
 
