@@ -2,10 +2,8 @@
   Welcome! Cheat All Game /  100 % Safe,Free
 </h1>
 
-
-
 <p align='center'>
-  Merci de rejoindre notre discord . See a sample <a href='https://github.com/alexandresanlim'>here</a>
+  Merci de rejoindre notre discord
 </p>
 
 <p align='center'>
@@ -13,8 +11,8 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="#">
-  <img alt="Sub" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  <img alt="https://www.youtube.com/channel/UCemI3wc64mr-lCyVysZZ0Eg" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>&nbsp;&nbsp;
 </p>
 
-<br />
+### Call of Duty: World at War	2008
