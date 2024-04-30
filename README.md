@@ -15,5 +15,10 @@
 </a>&nbsp;&nbsp;
 </p>
 
+### Call of Duty: Black Ops |||
+**No-Host : Mxt** : [Clique ici](https://www.mediafire.com/file/zq2w719xpfjpk05/MXT+1.1.2.zip/file)
+**No-Host : Scropts** : [Clique ici](https://mega.nz/file/oaUmDRLb#lLC9fxgjiFBL09wjCOBr7B13OaoKrwLXXo3GzEr5UuU)
+
+
 ### Call of Duty: World at War
-**[ZM] Discarded V3** : Clique [ici](https://www.mediafire.com/file/9nd4586xx0fhehv/Discarded+V3+-+T4+Mod+Menu.7z/file)
+**[Host : ZM] Discarded V3** : [Clique ici](https://www.mediafire.com/file/9nd4586xx0fhehv/Discarded+V3+-+T4+Mod+Menu.7z/file)
