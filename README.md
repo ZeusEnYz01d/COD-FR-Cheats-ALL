@@ -15,7 +15,7 @@
 </a>&nbsp;&nbsp;
 </p>
 
-### Call of Duty: Black Ops |||
+### Call of Duty: Black Ops III
 
 **[Gsc-Host : Zm,Mp** : [Clique ici](https://www.mediafire.com/file/cgy6n21tlyy7bfm/GSC+injector.zip/file)
 
@@ -31,7 +31,7 @@
 
 **No-Host : Nidavellir** : [Clique ici](https://discord.gg/YJBXDsVK8N)
 
-### Call of Duty: Black Ops ||
+### Call of Duty: Black Ops II
 
 **No-Host : Cryix Lite** : [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/Cyrix%20T6.dll)
 
@@ -49,7 +49,7 @@
 
 **[Host : ZM]  RM|T** : [Clique ici](https://www.mediafire.com/file/ow37neconkyelr1/rmt_zombies_menu_v2.6_mod_menu-compiled.gsc/file)
 
-### Call of Duty: Black Ops |
+### Call of Duty: Black Ops I
 
 **No-Host : Drg_Zm** : [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/bo1p.dll)
 
@@ -59,7 +59,7 @@
 
 **[Host : MP] IMCSx** : [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/mp_iMCSxs_Mod_Menu.rar)
 
-**[Host : ZM] Encore ** : [Clique ici](https://www.mediafire.com/file/z2l7dtufsyg2ejv/EncoreV8+Zombies.rar/file)
+**[Host : ZM] Encore** : [Clique ici](https://www.mediafire.com/file/z2l7dtufsyg2ejv/EncoreV8+Zombies.rar/file)
 
 **[Host : ZM] Physics** : [Clique ici](https://mega.nz/file/vdsAnQgA#LcQE-KsRFHbCYZQWwXzthG8N3cZNijYyYZRdLDQKLPo)
 
@@ -76,14 +76,7 @@
 **[Host : ZM] Discarded V3** : [Clique ici](https://www.mediafire.com/file/9nd4586xx0fhehv/Discarded+V3+-+T4+Mod+Menu.7z/file)
 
 
-
-
-
-
-
-
-
-### Call of Duty | Plutonium | Xlabs 
+- ### Call of Duty | Plutonium | Xlabs 
 
 Call of Duty :(COD1x)
 [Game](https://www.mediafire.com/file/34lt06fw6ad1t64/COD1X.rar/file)
