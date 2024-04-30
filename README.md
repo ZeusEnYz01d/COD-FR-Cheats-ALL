@@ -17,7 +17,7 @@
 
 ### Call of Duty: Black Ops III
 
-**[Gsc-Host : Zm,Mp** : [Clique ici](https://www.mediafire.com/file/cgy6n21tlyy7bfm/GSC+injector.zip/file)
+**[Gsc-Host] : Zm,Mp** : [Clique ici](https://www.mediafire.com/file/cgy6n21tlyy7bfm/GSC+injector.zip/file)
 
 **No-Host : Mxt** : [Clique ici](https://www.mediafire.com/file/zq2w719xpfjpk05/MXT+1.1.2.zip/file)
 
