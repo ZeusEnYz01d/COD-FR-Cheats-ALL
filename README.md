@@ -29,7 +29,7 @@
 
 **No-Host : AlwaysLose** : [Clique ici](https://discord.gg/cod-fr)
 
-**No-Host : Nidavellir** : [Clique ici](https://discord.gg/YJBXDsVK8N)
+**No-Host : Nidavellir** : [Clique ici](https://discord.gg/cod-fr)
 
 ### Call of Duty: Black Ops II
 
