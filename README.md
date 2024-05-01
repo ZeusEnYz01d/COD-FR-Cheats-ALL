@@ -76,7 +76,8 @@
 **[Host : ZM] Discarded V3** : [Clique ici](https://www.mediafire.com/file/9nd4586xx0fhehv/Discarded+V3+-+T4+Mod+Menu.7z/file)
 
 
-#Game Call of Duty | Plutonium | Xlabs
+## Game Call of Duty | Plutonium | Xlabs
+- Free Call Of / Online / Serveur
 - Help Discord = adb_butinaca
 
 Call of Duty :(COD1x)
