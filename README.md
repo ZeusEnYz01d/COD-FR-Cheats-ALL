@@ -33,7 +33,6 @@
 
 ### Call of Duty: Black Ops II
 
-**No-Host : Cryix Lite** : [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/Cyrix%20T6.dll)
 
 **No-Host : VSAT** : [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/T6VSAT-Tool.dll)
 
