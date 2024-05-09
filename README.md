@@ -34,8 +34,6 @@
 ### Call of Duty: Black Ops II
 
 
-**No-Host : VSAT** : [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/T6VSAT-Tool.dll)
-
 **No-Host : VSAT+NORECOIL** : [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/VSAT%20BY%20EFK.dll)
 
 **No-Host : Get-Ip_Serveur** : [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/PLUTONIUM%20SERVER%20GET%20IP%20(BY%20EFK)%20V2_[unknowncheats.me]_.zip)
@@ -66,9 +64,6 @@
 
 **No-Host : Hooker** : [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/waw.dll)
 
-**No-Host : Esp** : [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/cod5mpESP.exe)
-
-**No-Host : Zombie Tool** : [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/T4%20Plutonium%20WAW_[unknowncheats.me]_.rar)
 
 **[Host : MP]** : [Clique ici](https://www.mediafire.com/file/qpokcmor7ozmf0i/Fresh+Modders+-+T4+Mod+Menu.7z/file)
 
