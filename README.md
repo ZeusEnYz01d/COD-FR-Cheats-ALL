@@ -78,3 +78,4 @@
 ## Game Call of Duty | Plutonium | Xlabs
 - Free Call Of / Online / Serveur
 - Help Discord = adb_butinaca
+- http://cod-fr.mygamesonline.org/jeux/index.html
