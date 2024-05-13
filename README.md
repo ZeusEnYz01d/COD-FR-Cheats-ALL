@@ -15,7 +15,7 @@
 </a>&nbsp;&nbsp;
 </p>
 
-[![Octocat](http://joueursdecodfr.mygamesonline.org/leak/prestige-cod.gif "GitHub Logo")](https://github.com/ZeusEnYz01d)
+[![Octocat](http://joueursdecodfr.mygamesonline.org/leak/Fintechtocat.png "GitHub Logo")](https://github.com/ZeusEnYz01d)
 
 ### Call of Duty: Black Ops III
 
