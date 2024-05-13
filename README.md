@@ -15,7 +15,7 @@
 </a>&nbsp;&nbsp;
 </p>
 
-[![Octocat](http://joueursdecodfr.mygamesonline.org/leak/Fintechtocat.png "GitHub Logo")](https://github.com/)
+<img src="http://joueursdecodfr.mygamesonline.org/leak/Fintechtocat.png" width="385px" align="center">
 
 ### Call of Duty: Black Ops III
 
