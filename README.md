@@ -15,8 +15,6 @@
 </a>&nbsp;&nbsp;
 </p>
 
-<img src="http://joueursdecodfr.mygamesonline.org/leak/Fintechtocat.png" width="385px" align="center">
-
 ### Call of Duty: Black Ops III
 
 🎮 **[Gsc-Host] : Zm,Mp** : [Clique ici](https://www.mediafire.com/file/cgy6n21tlyy7bfm/GSC+injector.zip/file)
