@@ -69,7 +69,6 @@
 
 ### Call of Duty: World at War
 
-💣 **No-Host : Hooker** : [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/waw.dll)
 
 🎮 **[Host : MP]** : [Clique ici](https://www.mediafire.com/file/qpokcmor7ozmf0i/Fresh+Modders+-+T4+Mod+Menu.7z/file)
 
