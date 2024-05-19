@@ -83,3 +83,6 @@
 - Free Call Of / Online / Serveur
 - Help Discord = adb_butinaca
 - http://cod-fr.mygamesonline.org/jeux/index.html
+### Show Serveur
+- https://getserve.rs/
+- http://api.raidmax.org:5000/servers
