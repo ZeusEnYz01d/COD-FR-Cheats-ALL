@@ -17,7 +17,7 @@
 
 ### Call of Duty: Black Ops IIII
 
-🐱‍🐉 **[Gsc-Host] : GSC LOADER BO4** :  [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/Gsc%20Loader%20BO4.rar)
+🐱‍🐉 **[Gsc-Host] : GSC LOADER BO4** :  [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/Gsc%20.Loader%20BO4.rar)
 
 ⛏️ **No-Host : Unlock All | TEMPS** : [Clique ici](https://mega.nz/file/sGMyAaxI#idjpk63L_KND1Tx3xEK4hAVSLUk_efM386PgJ3tR0UU)
 
