@@ -67,7 +67,7 @@
 
 ---
 <p align="center">
-  <img src="https://i.ibb.co/nc76K7P/klej.gif" alt="Nom de l'image" style="margin: 20px;">
+  <img src="https://i.ibb.co/nc76K7P/klej.gif" alt="Nom de l'image" style="margin: 100px;">
 </p>
 
 ## ⚔️ ![Call of Duty: World at War](https://img.shields.io/badge/Call%20of%20Duty%3A%20World%20at%20War-orange)
