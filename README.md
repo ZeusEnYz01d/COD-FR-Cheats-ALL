@@ -20,7 +20,7 @@
 </p>
 
 ---
-## 🕹️ ![Call of Duty: Black Ops IIII](https://img.shields.io/badge/Call%20of%20Duty%3A%20Black%20Ops%20IIII-blue)
+## 🕹️ ![Call of Duty: Black Ops Ⅳ](https://img.shields.io/badge/Call%20of%20Duty%3A%20Black%20Ops%20IIII-blue)
 
 ### Host
 - 🐉 **GSC LOADER BO4**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/Gsc%20.Loader%20BO4.rar)
@@ -31,7 +31,7 @@
 
 ---
 
-## 🎮 ![Call of Duty: Black Ops III](https://img.shields.io/badge/Call%20of%20Duty%3A%20Black%20Ops%20III-green)
+## 🎮 ![Call of Duty: Black Ops Ⅲ](https://img.shields.io/badge/Call%20of%20Duty%3A%20Black%20Ops%20III-green)
 ### Host
 - 🐱‍💻 **GSC LOADER BO3**: [Clique ici](https://www.mediafire.com/file/cgy6n21tlyy7bfm/GSC+injector.zip/file)
 ### No-Host
@@ -43,7 +43,7 @@
 - ⚔️ **Nidavellir**: [Clique ici](https://discord.gg/cod-fr)
 ---
 
-## 🛡️ ![Call of Duty: Black Ops II](https://img.shields.io/badge/Call%20of%20Duty%3A%20Black%20Ops%20II-gold)
+## 🛡️ ![Call of Duty: Black Ops Ⅱ](https://img.shields.io/badge/Call%20of%20Duty%3A%20Black%20Ops%20II-gold)
 ### No-Host
 - 👁️‍🗨️ **ESP**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/Black-Ops-II_.dll)
 - 🔫 **VSAT + NORECOIL**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/VSAT%20BY%20EFK.dll)
@@ -55,7 +55,7 @@
 - 🔥 **ZM|VengeanceV2**: [Clique ici](https://drive.proton.me/urls/YKPKX26Z0G#rPnuRnlAe6wj)
 - 🔫 **ZM|RMT**: [Clique ici](https://www.mediafire.com/file/ow37neconkyelr1/rmt_zombies_menu_v2.6_mod_menu-compiled.gsc/file)
 ---
-## 🎯 ![Call of Duty: Black Ops I](https://img.shields.io/badge/Call%20of%20Duty%3A%20Black%20Ops%20I-purple)
+## 🎯 ![Call of Duty: Black Ops Ⅰ](https://img.shields.io/badge/Call%20of%20Duty%3A%20Black%20Ops%20I-purple)
 ### No-Host
 - 🐉 **Drg_Zm**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/bo1p.dll)
 - 🔍 **FOV/UAV/Blackbird**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/bo1%20tool_[unknowncheats.me]_.zip)
