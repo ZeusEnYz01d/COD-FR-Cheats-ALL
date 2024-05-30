@@ -76,9 +76,9 @@
 
 ---
 
-## ![MW3 Emoji](https://emojicdn.elk.sh/🎮/MW3?style=github) ![Call of Duty: Modern Warfare 3](https://img.shields.io/badge/Call%20of%20Duty%3A%20Modern%20Warfare%203-red)
+## 🎮 ![Call of Duty: Modern Warfare 3](https://img.shields.io/badge/Call%20of%20Duty%3A%20Modern%20Warfare%203-red)
 ### Host
-- 🎮 **Apocalypse**: [Clique ici](https://www.mediafire.com/file/fecf58y7561pzpr/Apocalypse+MW3+Menu.rar/file)
+- 🔫 **Apocalypse**: [Clique ici](https://www.mediafire.com/file/fecf58y7561pzpr/Apocalypse+MW3+Menu.rar/file)
 
 ---
 
