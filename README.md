@@ -71,7 +71,6 @@
 
 ### Call of Duty: World at War
 
-
 🎮 **[Host : MP]** : [Clique ici](https://www.mediafire.com/file/qpokcmor7ozmf0i/Fresh+Modders+-+T4+Mod+Menu.7z/file)
 
 🧟 **[Host : ZM] Discarded V3** : [Clique ici](https://www.mediafire.com/file/9nd4586xx0fhehv/Discarded+V3+-+T4+Mod+Menu.7z/file)
@@ -80,8 +79,23 @@
 
 🔥 **[Host : MP] Apocalypse** : [Clique ici](https://www.mediafire.com/file/fecf58y7561pzpr/Apocalypse+MW3+Menu.rar/file)
 
-
+### Inject Tuto :
+- Call of Duty: Black Ops I | Host | MP [Tuto link](https://www.youtube.com/watch?v=4lusHG_ZSKo&t=2s)
+- - Call of Duty: Black Ops I | Host | ZM [Tuto link](https://www.youtube.com/watch?v=HVbjRatiF1Y&t=1s)
+ - 
+- Call of Duty: Black Ops II | Host | MP [Tuto link](https://www.youtube.com/watch?v=m9l4jLehu-Y)
+- - Call of Duty: Black Ops II | Host | ZM [Tuto link](https://youtu.be/l6f-O4Z4JKg?si=0NTuaIXebNPjFFCU)
+ -
+- Call of Duty: Black Ops III | Host | MP [Tuto link](https://youtu.be/B3_8KMSgzdo?si=aZ8SIonFB7lR2Osn)
+- - Call of Duty: Black Ops III | Host | ZM [Tuto link](https://www.youtube.com/watch?v=q-zIaf80XRg)
+  - 
+- Call of Duty: Black Ops IIII | Host | MP [Tuto link](https://www.youtube.com/watch?v=rHzwIVTcK6k)
+ - - Call of Duty: Black Ops IIII | Host | ZM [Tuto link](https://www.youtube.com/watch?v=C8L3HCaan1c)
+   -  
+- Call of Duty: World at war  | Host | ZM [Tuto link](https://www.youtube.com/watch?v=7yL5LN2uR6c)
+  
 ## Game Call of Duty | Plutonium | Xlabs
+
 - Free Call Of / Online / Serveur
 - Help Discord = adb_butinaca
 - http://cod-fr.mygamesonline.org/jeux/index.html
