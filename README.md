@@ -92,12 +92,15 @@
 #
 - Call of Duty: Black Ops IIII | Host | MP [Tuto link](https://www.youtube.com/watch?v=rHzwIVTcK6k)
  - - Call of Duty: Black Ops IIII | Host | ZM [Tuto link](https://www.youtube.com/watch?v=C8L3HCaan1c)
+   -  Call of Duty: Black Ops IIII | No-Host | ZM-MP | Unlock all [Tuto link](https://youtu.be/ih_qaCF1lF0?si=6oJb7Nx_eP4hvLh2)
+   -  -  Call of Duty: Black Ops IIII | No-Host | ZM | MXT | PLASMA & MAX RANK TOOL [Tuto link](https://youtu.be/D0ybW_gimK0?si=bBe1h8ye-IJUetkq)
+
 #
 - Call of Duty: World at war  | Host | ZM [Tuto link](https://www.youtube.com/watch?v=7yL5LN2uR6c)
 - - Call of Duty: World at war  | Host | MP [Tuto link]()
 # 
 - Call of Duty: Modern Warfare 3 | Host | [Tuto link](https://www.youtube.com/watch?v=CBGFgtzuFIA)
-- - Call of Duty: Modern Warfare 3 | NO-Host | [Tuto link](https://www.youtube.com/watch?v=80IjsTfnvYI)
+- - Call of Duty: Modern Warfare 3 | No-Host | [Tuto link](https://www.youtube.com/watch?v=80IjsTfnvYI)
 ## Game Call of Duty | Plutonium | Xlabs
 
 - Free Call Of / Online / Serveur
