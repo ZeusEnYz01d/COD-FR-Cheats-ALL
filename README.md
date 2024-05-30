@@ -79,9 +79,7 @@
 #
 Call of Duty | Plutonium | Xlabs
 - http://cod-fr.mygamesonline.org/jeux/index.html
-- - Serveur
-
-https://getserve.rs/ | http://api.raidmax.org:5000/servers
+- - Serveur = https://getserve.rs/,http://api.raidmax.org:5000/servers
   
 ### Inject Tuto :
 - Call of Duty: Black Ops I | Host | MP [Tuto link](https://www.youtube.com/watch?v=4lusHG_ZSKo&t=2s)
