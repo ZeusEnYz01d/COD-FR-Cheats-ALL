@@ -79,6 +79,14 @@
 
 🔥 **[Host : MP] Apocalypse** : [Clique ici](https://www.mediafire.com/file/fecf58y7561pzpr/Apocalypse+MW3+Menu.rar/file)
 
+#
+Call of Duty | Plutonium | Xlabs
+- http://cod-fr.mygamesonline.org/jeux/index.html
+#
+Show Serveur
+- https://getserve.rs/
+- http://api.raidmax.org:5000/servers
+  
 ### Inject Tuto :
 - Call of Duty: Black Ops I | Host | MP [Tuto link](https://www.youtube.com/watch?v=4lusHG_ZSKo&t=2s)
 - - Call of Duty: Black Ops I | Host | ZM [Tuto link](https://www.youtube.com/watch?v=HVbjRatiF1Y&t=1s)
@@ -101,11 +109,3 @@
 # 
 - Call of Duty: Modern Warfare 3 | Host | [Tuto link](https://www.youtube.com/watch?v=CBGFgtzuFIA)
 - - Call of Duty: Modern Warfare 3 | No-Host | [Tuto link](https://www.youtube.com/watch?v=80IjsTfnvYI)
-## Game Call of Duty | Plutonium | Xlabs
-
-- Free Call Of / Online / Serveur
-- Help Discord = adb_butinaca
-- http://cod-fr.mygamesonline.org/jeux/index.html
-### Show Serveur
-- https://getserve.rs/
-- http://api.raidmax.org:5000/servers
