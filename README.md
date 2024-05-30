@@ -23,7 +23,7 @@
 💎 **No-Host : Mxt Plasma** : [Clique ici](https://www.mediafire.com/file/2wbkjexl6csztp7/MXT_BO4_1.0.1.dll/file)
 #
 # Call of Duty: Black Ops III
-🎮 **[Gsc-Host] : Zm,Mp** : [Clique ici](https://www.mediafire.com/file/cgy6n21tlyy7bfm/GSC+injector.zip/file)
+🎮 **[Gsc-Host] : GSC LOADER BO3** : [Clique ici](https://www.mediafire.com/file/cgy6n21tlyy7bfm/GSC+injector.zip/file)
 #
 💥 **No-Host : Mxt** : [Clique ici](https://www.mediafire.com/file/zq2w719xpfjpk05/MXT+1.1.2.zip/file)
 
