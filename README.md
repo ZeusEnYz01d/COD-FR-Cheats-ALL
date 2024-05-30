@@ -1,4 +1,1 @@
-## 🕹️ Call of Duty: Black Ops IIII
-
-<span style="color:#1E90FF;">### Host</span>
-- 🐉 **GSC LOADER BO4**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/Gsc%20.Loader%20BO4.rar)
+[![blue](https://img.shields.io/badge/Texte%20en%20bleu-blue)](#) [![red](https://img.shields.io/badge/Texte%20en%20rouge-red)](#)
