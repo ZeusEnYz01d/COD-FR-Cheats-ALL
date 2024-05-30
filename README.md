@@ -53,9 +53,7 @@
 - 🌟 **MP|Keabadian V1**: [Clique ici](https://www.mediafire.com/file/tuk22bp83ozkevw/Keabadian_v2.0.zip/file)
 - 🔥 **ZM|VengeanceV2**: [Clique ici](https://drive.proton.me/urls/YKPKX26Z0G#rPnuRnlAe6wj)
 - 🔫 **ZM|RMT**: [Clique ici](https://www.mediafire.com/file/ow37neconkyelr1/rmt_zombies_menu_v2.6_mod_menu-compiled.gsc/file)
-
 ---
-https://media.discordapp.net/attachments/1216105477730078841/1216107569425420401/klej.gif?ex=6658d56e&is=665783ee&hm=755f5617abff193190a759dcc30e85fb8516b0825162fc086b7b1c6cafd31965&
 ## 🎯 ![Call of Duty: Black Ops I](https://img.shields.io/badge/Call%20of%20Duty%3A%20Black%20Ops%20I-purple)
 ### No-Host
 - 🐉 **Drg_Zm**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/bo1p.dll)
@@ -68,6 +66,9 @@ https://media.discordapp.net/attachments/1216105477730078841/1216107569425420401
 - ⚛️ **ZM|Physics**: [Clique ici](https://mega.nz/file/vdsAnQgA#LcQE-KsRFHbCYZQWwXzthG8N3cZNijYyYZRdLDQKLPo)
 
 ---
+<p align="center">
+  <img src="https://i.ibb.co/nc76K7P/klej.gif" alt="Nom de l'image" style="margin: 20px;">
+</p>
 
 ## ⚔️ ![Call of Duty: World at War](https://img.shields.io/badge/Call%20of%20Duty%3A%20World%20at%20War-orange)
 ### Host
