@@ -16,7 +16,7 @@
 </p>
 
 <p align='center'>
-  <img src="https://media.discordapp.net/attachments/1225875934779932793/1245627657073201194/Cod.png?ex=665970a8&is=66581f28&hm=6013621ab68e3e1c1421fda318c93e26778e8eac1a751f5ccb65a6b3e43d7a8f&=&format=webp&quality=lossless&width=700&height=700" alt="COD Logo" width="200" height="200">
+  <img src="https://media.discordapp.net/attachments/1184104514974928968/1245630000627978371/channels4_profile.jpg?ex=665972d6&is=66582156&hm=b731796f8fe6e1f223e9c904a610bdf61d336a7cd935bdbb98323636a14bec0c&=&format=webp&width=264&height=264" alt="COD Logo" width="200" height="200">
 </p>
 
 ---
@@ -120,5 +120,5 @@
 ---
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="50" height="50">
+  <img src="https://media.discordapp.net/attachments/1184104514974928968/1245630001055924284/Cod.png?ex=665972d6&is=66582156&hm=e99bb26d9fb497f6e5f4b7e30e95142ee6c1c8c0cecd8e2225c4c75274a1803a&=&format=webp&quality=lossless&width=700&height=700" alt="Joueur Logo" width="50" height="50">
 </p>
