@@ -22,23 +22,23 @@
 ---
 
 ## 🕹️ <span style="color:#1E90FF;">Call of Duty: Black Ops IIII</span>
-### No-Host
+### Host
 - 🐉 **GSC LOADER BO4**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/Gsc%20.Loader%20BO4.rar)
+### No-Host
 - 🎯 **Unlock All | TEMPS**: [Clique ici](https://mega.nz/file/sGMyAaxI#idjpk63L_KND1Tx3xEK4hAVSLUk_efM386PgJ3tR0UU)
 - 💎 **Mxt Plasma**: [Clique ici](https://www.mediafire.com/file/2wbkjexl6csztp7/MXT_BO4_1.0.1.dll/file)
-
 ---
 
 ## 🎮 <span style="color:#32CD32;">Call of Duty: Black Ops III</span>
-### No-Host
+### Host
 - 🐱‍💻 **GSC LOADER BO3**: [Clique ici](https://www.mediafire.com/file/cgy6n21tlyy7bfm/GSC+injector.zip/file)
+### No-Host
 - 💥 **Mxt**: [Clique ici](https://www.mediafire.com/file/zq2w719xpfjpk05/MXT+1.1.2.zip/file)
 - 💡 **Scripts**: [Clique ici](https://mega.nz/file/oaUmDRLb#lLC9fxgjiFBL09wjCOBr7B13OaoKrwLXXo3GzEr5UuU)
 - 💪 **GodNess**: [Clique ici](https://pastebin.com/iUVPmvRx)
 - 👻 **Phantom**: [Clique ici](https://mega.nz/file/tWVkhRia#JehoVcYGJkFXhKOSiu0pSQTLBUaB3wIHuWPIwbzhP7I)
 - 😎 **AlwaysLose**: [Clique ici](https://discord.gg/cod-fr)
 - ⚔️ **Nidavellir**: [Clique ici](https://discord.gg/cod-fr)
-
 ---
 
 ## 🛡️ <span style="color:#FFD700;">Call of Duty: Black Ops II</span>
@@ -48,11 +48,10 @@
 - 🌐 **Get-Ip_Serveur**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/PLUTONIUM%20SERVER%20GET%20IP%20(BY%20EFK)%20V2_[unknowncheats.me]_.zip)
 
 ### Host
-- 🦇 **BatMan V14.8**: [Clique ici](https://www.mediafire.com/file/1prbd797z7p7d2k/BatMan+V14.8.rar)
-- 🌟 **Keabadian V1**: [Clique ici](https://www.mediafire.com/file/tuk22bp83ozkevw/Keabadian_v2.0.zip/file)
-- 🔥 **VengeanceV2**: [Clique ici](https://drive.proton.me/urls/YKPKX26Z0G#rPnuRnlAe6wj)
-- 🔫 **RM|T**: [Clique ici](https://www.mediafire.com/file/ow37neconkyelr1/rmt_zombies_menu_v2.6_mod_menu-compiled.gsc/file)
-
+- 🦇 **MP|BatMan V14.8**: [Clique ici](https://www.mediafire.com/file/1prbd797z7p7d2k/BatMan+V14.8.rar)
+- 🌟 **MP|Keabadian V1**: [Clique ici](https://www.mediafire.com/file/tuk22bp83ozkevw/Keabadian_v2.0.zip/file)
+- 🔥 **ZM|VengeanceV2**: [Clique ici](https://drive.proton.me/urls/YKPKX26Z0G#rPnuRnlAe6wj)
+- 🔫 **ZM|RMT**: [Clique ici](https://www.mediafire.com/file/ow37neconkyelr1/rmt_zombies_menu_v2.6_mod_menu-compiled.gsc/file)
 ---
 
 ## 🎯 <span style="color:#FF69B4;">Call of Duty: Black Ops I</span>
@@ -61,31 +60,27 @@
 - 🔍 **FOV/UAV/Blackbird**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/bo1%20tool_[unknowncheats.me]_.zip)
 
 ### Host
-- 🛡️ **Redemption**: [Clique ici](https://github.com/roachnacs/redemption-bo1-gsc/releases/tag/v2.1)
-- ⚙️ **IMCSx**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/mp_iMCSxs_Mod_Menu.rar)
-- 🔬 **Encore**: [Clique ici](https://www.mediafire.com/file/z2l7dtufsyg2ejv/EncoreV8+Zombies.rar/file)
-- ⚛️ **Physics**: [Clique ici](https://mega.nz/file/vdsAnQgA#LcQE-KsRFHbCYZQWwXzthG8N3cZNijYyYZRdLDQKLPo)
-
+- 🛡️ **MP|Redemption**: [Clique ici](https://github.com/roachnacs/redemption-bo1-gsc/releases/tag/v2.1)
+- ⚙️ **MP|IMCSx**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/mp_iMCSxs_Mod_Menu.rar)
+- 🔬 **ZM|Encore**: [Clique ici](https://www.mediafire.com/file/z2l7dtufsyg2ejv/EncoreV8+Zombies.rar/file)
+- ⚛️ **ZM|Physics**: [Clique ici](https://mega.nz/file/vdsAnQgA#LcQE-KsRFHbCYZQWwXzthG8N3cZNijYyYZRdLDQKLPo)
 ---
 
 ## ⚔️ <span style="color:#FFA500;">Call of Duty: World at War</span>
 ### Host
-- 🎮 **Mod Menu**: [Clique ici](https://www.mediafire.com/file/qpokcmor7ozmf0i/Fresh+Modders+-+T4+Mod+Menu.7z/file)
-- 🧟 **Discarded V3**: [Clique ici](https://www.mediafire.com/file/9nd4586xx0fhehv/Discarded+V3+-+T4+Mod+Menu.7z/file)
-
+- 🎮 **MP|FreshModded**: [Clique ici](https://www.mediafire.com/file/qpokcmor7ozmf0i/Fresh+Modders+-+T4+Mod+Menu.7z/file)
+- 🧟 **ZM|Discarded V3**: [Clique ici](https://www.mediafire.com/file/9nd4586xx0fhehv/Discarded+V3+-+T4+Mod+Menu.7z/file)
 ---
 
 ## 🔥 <span style="color:#FF4500;">Call of Duty: Modern Warfare 3</span>
 ### Host
 - 🎮 **Apocalypse**: [Clique ici](https://www.mediafire.com/file/fecf58y7561pzpr/Apocalypse+MW3+Menu.rar/file)
-
 ---
 
 ## 🌐 <span style="color:#20B2AA;">Call of Duty | Plutonium | Xlabs</span>
-- [Serveur 1](http://cod-fr.mygamesonline.org/jeux/index.html)
-- [Serveur 2](https://getserve.rs/)
-- [Serveur 3](http://api.raidmax.org:5000/servers)
-
+- [Download Cod Free](http://cod-fr.mygamesonline.org/jeux/index.html)
+- [Serveur Play 1](https://getserve.rs/)
+- [Serveur Play 2](http://api.raidmax.org:5000/servers)
 ---
 
 ## 📚 Inject Tuto
