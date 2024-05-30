@@ -82,18 +82,22 @@
 ### Inject Tuto :
 - Call of Duty: Black Ops I | Host | MP [Tuto link](https://www.youtube.com/watch?v=4lusHG_ZSKo&t=2s)
 - - Call of Duty: Black Ops I | Host | ZM [Tuto link](https://www.youtube.com/watch?v=HVbjRatiF1Y&t=1s)
-
+#
 - Call of Duty: Black Ops II | Host | MP [Tuto link](https://www.youtube.com/watch?v=m9l4jLehu-Y)
 - - Call of Duty: Black Ops II | Host | ZM [Tuto link](https://youtu.be/l6f-O4Z4JKg?si=0NTuaIXebNPjFFCU)
-
+#
 - Call of Duty: Black Ops III | Host | MP [Tuto link](https://youtu.be/B3_8KMSgzdo?si=aZ8SIonFB7lR2Osn)
 - - Call of Duty: Black Ops III | Host | ZM [Tuto link](https://www.youtube.com/watch?v=q-zIaf80XRg)
-
+  -  Call of Duty: Black Ops III | No-Host | MP [Tuto link](https://www.youtube.com/watch?v=ijmKxoNPjyU)
+#
 - Call of Duty: Black Ops IIII | Host | MP [Tuto link](https://www.youtube.com/watch?v=rHzwIVTcK6k)
  - - Call of Duty: Black Ops IIII | Host | ZM [Tuto link](https://www.youtube.com/watch?v=C8L3HCaan1c)
-  
+#
 - Call of Duty: World at war  | Host | ZM [Tuto link](https://www.youtube.com/watch?v=7yL5LN2uR6c)
-  
+- - Call of Duty: World at war  | Host | MP [Tuto link]()
+# 
+- Call of Duty: Modern Warfare 3 | Host | [Tuto link](https://www.youtube.com/watch?v=CBGFgtzuFIA)
+- - Call of Duty: Modern Warfare 3 | NO-Host | [Tuto link](https://www.youtube.com/watch?v=80IjsTfnvYI)
 ## Game Call of Duty | Plutonium | Xlabs
 
 - Free Call Of / Online / Serveur
