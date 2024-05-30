@@ -20,7 +20,7 @@
 </p>
 
 ---
-## 🕹️ ![Call of Duty: Black Ops Ⅳ](https://img.shields.io/badge/Call%20of%20Duty%3A%20Black%20Ops%20IIII-blue)
+## 🕹️ ![Call of Duty: Black Ops IV](https://img.shields.io/badge/Call%20of%20Duty%3A%20Black%20Ops%20IV-blue)
 
 ### Host
 - 🐉 **GSC LOADER BO4**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/Gsc%20.Loader%20BO4.rar)
