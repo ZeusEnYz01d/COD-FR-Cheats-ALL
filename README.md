@@ -1,10 +1,10 @@
 <h1 align="center">
   <img src="https://media.discordapp.net/attachments/1184104514974928968/1246897145400000653/3dgifmaker34116.gif?ex=665e0ef5&is=665cbd75&hm=88908bd28bf269ad33a161d6954e1e0bc2ca48a3ea95e49c5e12873f08420da5&=&width=375&height=375" alt="Joueur Logo" width="250" height="250"><br>
-  🎮 Bienvenue ! Cheat All Game / 100% Sûr et Gratuit 🎮
+  <span style="color:#FFD700;">🎮 Bienvenue sur Cheat All Game ! 🎮</span>
 </h1>
 
 <p align="center">
-  Merci de rejoindre notre Discord
+  Merci de rejoindre notre <span style="color:#5865F2;">Discord</span>
 </p>
 
 <p align="center">
@@ -19,7 +19,6 @@
 <p align="center">
   <img src="https://media.discordapp.net/attachments/1184104514974928968/1245630000627978371/channels4_profile.jpg?ex=665972d6&is=66582156&hm=b731796f8fe6e1f223e9c904a610bdf61d336a7cd935bdbb98323636a14bec0c&=&format=webp&width=264&height=264" alt="COD Logo" width="150" height="150">
 </p>
-
 ---
 
 ## 🕹️ ![Call of Duty: Black Ops IV](https://img.shields.io/badge/Call%20of%20Duty%3A%20Black%20Ops%20IV-blue)
