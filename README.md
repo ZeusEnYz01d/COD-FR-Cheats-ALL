@@ -59,7 +59,7 @@
 - 🐉 **Drg_Zm**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/bo1p.dll)
 - 🔍 **FOV/UAV/Blackbird**: [Clique ici](http://joueursdecodfr.my
 
-## 🌐 ![Call of Duty | Plutonium | X](https://img.shields.io/badge/Call%20of%20Duty%20%7C%20Pl
+## 🌐 ![Call of Duty | Plutonium | X](https://img.shields.io/badge/Call%20of%20Duty%20%7C%20Plutonium%20%7C%20X-yellow)
 
 - [Download Cod Free](http://cod-fr.mygamesonline.org/jeux/index.html)
 - [Serveur Play 1](https://getserve.rs/)
