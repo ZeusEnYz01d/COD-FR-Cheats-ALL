@@ -117,5 +117,5 @@
 - **No-Host**: [Tuto link](https://www.youtube.com/watch?v=80IjsTfnvYI)
 ---
 
-[![SVG Banners]([![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=Joueurs%20De%20Cod%20🤖&width=800&height=400)](https://github.com/ZeusEnYz01d)]
+[![https://discord.gg/cod-fr](https://svg-banners.vercel.app/api?type=textBox&text1=Joueurs%20De%20Cod%20🤖&width=800&height=400)](https://github.com/ZeusEnYz01d)]
 
