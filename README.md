@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="https://media.discordapp.net/attachments/1184104514974928968/1246897145400000653/3dgifmaker34116.gif?ex=665e0ef5&is=665cbd75&hm=88908bd28bf269ad33a161d6954e1e0bc2ca48a3ea95e49c5e12873f08420da5&=&width=375&height=375" alt="Joueur Logo" width="250" height="250"><br>
-  <span style="color:#FFD700;">🚀 Bienvenue sur Le Github | Joueurs de COD ! 🎮</span>
+  <span style="color:#FFD700;">🚀 Bienvenue sur Le Github | Joueurs de COD ! 🎮</span><br>
+  [![HAAAAAAA](https://svg-banners.vercel.app/api?type=textBox&text1=Joueurs%20De%20Cod%20🤖&width=800&height=400)](https://discord.gg/cod-fr)
 </h1>
 
 <p align="center">
@@ -15,6 +16,7 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
+
 
 ---
 ## 🕹️ ![Call of Duty: Black Ops IV](https://img.shields.io/badge/Black_Ops%204-44D62D?style=for-the-badge&logo=razer&logoColor=252525)
@@ -117,5 +119,4 @@
 - **No-Host**: [Tuto link](https://www.youtube.com/watch?v=80IjsTfnvYI)
 ---
 
-[![https://discord.gg/cod-fr](https://svg-banners.vercel.app/api?type=textBox&text1=Joueurs%20De%20Cod%20🤖&width=800&height=400)](https://github.com/ZeusEnYz01d)]
 
