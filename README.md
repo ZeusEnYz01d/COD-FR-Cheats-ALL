@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.discordapp.net/attachments/1184104514974928968/1246897145400000653/3dgifmaker34116.gif?ex=665e0ef5&is=665cbd75&hm=88908bd28bf269ad33a161d6954e1e0bc2ca48a3ea95e49c5e12873f08420da5&=&width=375&height=375" alt="Joueur Logo" width="250" height="250"><br>
-  <span style="color:#FFD700;">🎮 Bienvenue sur Github | Joueurs de COD ! 🎮</span>
+  <span style="color:#FFD700;">🎮 Bienvenue sur Le Github | Joueurs de COD ! 🎮</span>
 </h1>
 
 <p align="center">
