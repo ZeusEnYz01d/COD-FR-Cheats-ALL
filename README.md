@@ -1,23 +1,22 @@
-<h1 align='center' style="color:#FFD700;">
+<h1 align="center" style="color:#FFD700;">
   🎮 Bienvenue ! Cheat All Game / 100% Sûr et Gratuit 🎮
 </h1>
 
-<p align='center'>
+<p align="center">
   Merci de rejoindre notre discord
 </p>
 
-<p align='center'>
+<p align="center">
   <a href="https://discord.gg/cod-fr">
     <img src="https://discordapp.com/api/guilds/1182223934276513893/widget.png?style=banner2" alt="Cod-Fr"/>
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>&nbsp;&nbsp;
-
   <a href="https://www.youtube.com/channel/UCemI3wc64mr-lCyVysZZ0Eg">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
 
-<p align='center'>
+<p align="center">
   <img src="https://media.discordapp.net/attachments/1184104514974928968/1245630000627978371/channels4_profile.jpg?ex=665972d6&is=66582156&hm=b731796f8fe6e1f223e9c904a610bdf61d336a7cd935bdbb98323636a14bec0c&=&format=webp&width=264&height=264" alt="COD Logo" width="150" height="150">
 </p>
 
