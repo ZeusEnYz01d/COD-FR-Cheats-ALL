@@ -57,7 +57,6 @@
 ## 🎯 ![Call of Duty: Black Ops Ⅰ](https://img.shields.io/badge/Call%20of%20Duty%3A%20Black%20Ops%20I-purple)
 ### No-Host
 - 🐉 **Drg_Zm**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/bo1p.dll)
-- 🔍 **FOV/UAV/Blackbird**: [Clique ici](http://joueursdecodfr.my
 
 ## 🌐 ![Call of Duty | Plutonium | X](https://img.shields.io/badge/Call%20of%20Duty%20%7C%20Plutonium%20%7C%20X-yellow)
 
@@ -65,39 +64,7 @@
 - [Serveur Play 1](https://getserve.rs/)
 - [Serveur Play 2](http://api.raidmax.org:5000/servers)
 ---
+
 <p align="center">
   <img src="https://i.ibb.co/nc76K7P/klej.gif" alt="Zb" style="margin: 50px;">
-</p>
-
-## 📚 Inject Tuto
-### Black Ops I
-- **Host | MP**: [Tuto link](https://www.youtube.com/watch?v=4lusHG_ZSKo&t=2s)
-- **Host | ZM**: [Tuto link](https://www.youtube.com/watch?v=HVbjRatiF1Y&t=1s)
-
-### Black Ops II
-- **Host | MP**: [Tuto link](https://www.youtube.com/watch?v=m9l4jLehu-Y)
-- **Host | ZM**: [Tuto link](https://youtu.be/l6f-O4Z4JKg?si=0NTuaIXebNPjFFCU)
-
-### Black Ops III
-- **Host | MP**: [Tuto link](https://youtu.be/B3_8KMSgzdo?si=aZ8SIonFB7lR2Osn)
-- **Host | ZM**: [Tuto link](https://www.youtube.com/watch?v=q-zIaf80XRg)
-- **No-Host | MP**: [Tuto link](https://www.youtube.com/watch?v=ijmKxoNPjyU)
-
-### Black Ops IIII
-- **Host | MP**: [Tuto link](https://www.youtube.com/watch?v=rHzwIVTcK6k)
-- **Host | ZM**: [Tuto link](https://www.youtube.com/watch?v=C8L3HCaan1c)
-- **No-Host | ZM-MP | Unlock all**: [Tuto link](https://youtu.be/ih_qaCF1lF0?si=6oJb7Nx_eP4hvLh2)
-- **No-Host | ZM | MXT | PLASMA & MAX RANK TOOL**: [Tuto link](https://youtu.be/D0ybW_gimK0?si=bBe1h8ye-IJUetkq)
-
-### World at War
-- **Host | ZM**: [Tuto link](https://www.youtube.com/watch?v=7yL5LN2uR6c)
-- **Host | MP**: [Tuto link]()
-
-### Modern Warfare 3
-- **Host**: [Tuto link](https://www.youtube.com/watch?v=CBGFgtzuFIA)
-- **No-Host**: [Tuto link](https://www.youtube.com/watch?v=80IjsTfnvYI)
----
-
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1184104514974928968/1245630000627978371/channels4_profile.jpg?ex=665972d6&is=66582156&hm=b731796f8fe6e1f223e9c904a610bdf61d336a7cd935bdbb98323636a14bec0c&=&format=webp&width=264&height=264" alt="Joueur Logo" width="200" height="200">
 </p>
