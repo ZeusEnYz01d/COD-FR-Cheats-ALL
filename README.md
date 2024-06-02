@@ -1,13 +1,10 @@
 <h1 align="center">
-  <img src="https://i.ibb.co/KhJ5b1M/cheat-all-game.png" alt="Cheat All Game">
-  <br>
-  Cheat All Game
-  <br>
-  <span style="font-size: 20px;">💯 100% Sûr et Gratuit 💯</span>
+  <img src="https://media.discordapp.net/attachments/1184104514974928968/1245630001055924284/Cod.png?ex=665972d6&is=66582156&hm=e99bb26d9fb497f6e5f4b7e30e95142ee6c1c8c0cecd8e2225c4c75274a1803a&=&format=webp&quality=lossless&width=700&height=700" alt="Joueur Logo" width="200" height="200"><br>
+  🎮 Bienvenue ! Cheat All Game / 100% Sûr et Gratuit 🎮
 </h1>
 
 <p align="center">
-  Bienvenue sur notre page GitHub ! Merci de rejoindre notre communauté sur Discord.
+  Merci de rejoindre notre Discord
 </p>
 
 <p align="center">
@@ -24,6 +21,7 @@
 </p>
 
 ---
+
 ## 🕹️ ![Call of Duty: Black Ops IV](https://img.shields.io/badge/Call%20of%20Duty%3A%20Black%20Ops%20IV-blue)
 
 ### Host
@@ -59,30 +57,14 @@
 - 🔥 **ZM|VengeanceV2**: [Clique ici](https://drive.proton.me/urls/YKPKX26Z0G#rPnuRnlAe6wj)
 - 🔫 **ZM|RMT**: [Clique ici](https://www.mediafire.com/file/ow37neconkyelr1/rmt_zombies_menu_v2.6_mod_menu-compiled.gsc/file)
 ---
+
 ## 🎯 ![Call of Duty: Black Ops Ⅰ](https://img.shields.io/badge/Call%20of%20Duty%3A%20Black%20Ops%20I-purple)
 ### No-Host
 - 🐉 **Drg_Zm**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/bo1p.dll)
-- 🔍 **FOV/UAV/Blackbird**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/bo1%20tool_[unknowncheats.me]_.zip)
+- 🔍 **FOV/UAV/Blackbird**: [Clique ici](http://joueursdecodfr.my
 
-### Host
-- 🛡️ **MP|Redemption**: [Clique ici](https://github.com/roachnacs/redemption-bo1-gsc/releases/tag/v2.1)
-- ⚙️ **MP|IMCSx**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/mp_iMCSxs_Mod_Menu.rar)
-- 🔬 **ZM|Encore**: [Clique ici](https://www.mediafire.com/file/z2l7dtufsyg2ejv/EncoreV8+Zombies.rar/file)
-- ⚛️ **ZM|Physics**: [Clique ici](https://mega.nz/file/vdsAnQgA#LcQE-KsRFHbCYZQWwXzthG8N3cZNijYyYZRdLDQKLPo)
----
+## 🌐 ![Call of Duty | Plutonium | X](https://img.shields.io/badge/Call%20of%20Duty%20%7C%20Pl
 
-## ⚔️ ![Call of Duty: World at War](https://img.shields.io/badge/Call%20of%20Duty%3A%20World%20at%20War-orange)
-### Host
-- 🎮 **MP|FreshModded**: [Clique ici](https://www.mediafire.com/file/qpokcmor7ozmf0i/Fresh+Modders+-+T4+Mod+Menu.7z/file)
-- 🧟 **ZM|Discarded V3**: [Clique ici](https://www.mediafire.com/file/9nd4586xx0fhehv/Discarded+V3+-+T4+Mod+Menu.7z/file)
----
-
-## 🎮 ![Call of Duty: Modern Warfare 3](https://img.shields.io/badge/Call%20of%20Duty%3A%20Modern%20Warfare%203-red)
-### Host
-- 🔫 **Apocalypse**: [Clique ici](https://www.mediafire.com/file/fecf58y7561pzpr/Apocalypse+MW3+Menu.rar/file)
----
-
-## 🌐 ![Call of Duty | Plutonium | X
 - [Download Cod Free](http://cod-fr.mygamesonline.org/jeux/index.html)
 - [Serveur Play 1](https://getserve.rs/)
 - [Serveur Play 2](http://api.raidmax.org:5000/servers)
