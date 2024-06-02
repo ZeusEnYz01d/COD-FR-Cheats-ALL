@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.discordapp.net/attachments/1184104514974928968/1246897145400000653/3dgifmaker34116.gif?ex=665e0ef5&is=665cbd75&hm=88908bd28bf269ad33a161d6954e1e0bc2ca48a3ea95e49c5e12873f08420da5&=&width=375&height=375" alt="Joueur Logo" width="250" height="250"><br>
-  <span style="color:#FFD700;">🎮 Bienvenue sur Le Github | Joueurs de COD ! 🎮</span>
+  <span style="color:#FFD700;">🚀 Bienvenue sur Le Github | Joueurs de COD ! 🎮</span>
 </h1>
 
 <p align="center">
@@ -16,30 +16,31 @@
   </a>
 </p>
 
----
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); margin: 20px 0;">
 
-## 🕹️ ![Call of Duty: Black Ops IV](https://img.shields.io/badge/Call%20of%20Duty%3A%20Black%20Ops%20IV-blue)
+## ⚙️ ![Call of Duty: Black Ops IV](https://img.shields.io/badge/Call%20of%20Duty%3A%20Black%20Ops%20IV-blue)
 
 ### Host
 - 🐉 **GSC LOADER BO4**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/Gsc%20.Loader%20BO4.rar)
 
 ### No-Host
-- 🎯 **Unlock All | TEMPS**: [Clique ici](https://mega.nz/file/UasjBQJZ#3MT20fpnCZh3D73zBIh6yIX2yNT6Bh3SydtkG62DZMY)
+- 🔓 **Unlock All | TEMPS**: [Clique ici](https://mega.nz/file/UasjBQJZ#3MT20fpnCZh3D73zBIh6yIX2yNT6Bh3SydtkG62DZMY)
 - 💎 **Mxt Plasma**: [Clique ici](https://www.mediafire.com/file/2wbkjexl6csztp7/MXT_BO4_1.0.1.dll/file)
 
----
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); margin: 20px 0;">
 
 ## 🎮 ![Call of Duty: Black Ops Ⅲ](https://img.shields.io/badge/Call%20of%20Duty%3A%20Black%20Ops%20III-green)
 ### Host
 - 🐱‍💻 **GSC LOADER BO3**: [Clique ici](https://www.mediafire.com/file/cgy6n21tlyy7bfm/GSC+injector.zip/file)
 ### No-Host
-- 💥 **Mxt**: [Clique ici](https://www.mediafire.com/file/zq2w719xpfjpk05/MXT+1.1.2.zip/file)
+- 💣 **Mxt**: [Clique ici](https://www.mediafire.com/file/zq2w719xpfjpk05/MXT+1.1.2.zip/file)
 - 💡 **Scropts**: [Clique ici](https://mega.nz/file/oaUmDRLb#lLC9fxgjiFBL09wjCOBr7B13OaoKrwLXXo3GzEr5UuU)
 - 💪 **GodNess**: [Clique ici](https://pastebin.com/iUVPmvRx)
 - 👻 **Phantom**: [Clique ici](https://mega.nz/file/tWVkhRia#JehoVcYGJkFXhKOSiu0pSQTLBUaB3wIHuWPIwbzhP7I)
 - 😎 **AlwaysLose**: [Clique ici](https://discord.gg/cod-fr)
 - ⚔️ **Nidavellir**: [Clique ici](https://discord.gg/cod-fr)
----
+
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); margin: 20px 0;">
 
 ## 🛡️ ![Call of Duty: Black Ops Ⅱ](https://img.shields.io/badge/Call%20of%20Duty%3A%20Black%20Ops%20II-gold)
 ### No-Host
@@ -52,7 +53,8 @@
 - 🌟 **MP|Keabadian V1**: [Clique ici](https://www.mediafire.com/file/tuk22bp83ozkevw/Keabadian_v2.0.zip/file)
 - 🔥 **ZM|VengeanceV2**: [Clique ici](https://drive.proton.me/urls/YKPKX26Z0G#rPnuRnlAe6wj)
 - 🔫 **ZM|RMT**: [Clique ici](https://www.mediafire.com/file/ow37neconkyelr1/rmt_zombies_menu_v2.6_mod_menu-compiled.gsc/file)
----
+
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0
 
 ## 🎯 ![Call of Duty: Black Ops Ⅰ](https://img.shields.io/badge/Call%20of%20Duty%3A%20Black%20Ops%20I-purple)
 ### No-Host
