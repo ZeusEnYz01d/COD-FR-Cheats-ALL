@@ -17,7 +17,6 @@
 </p>
 
 ## 🕹️ ![Call of Duty: Black Ops IV](https://img.shields.io/badge/Black_Ops%204-44D62D?style=for-the-badge&logo=razer&logoColor=252525)
-
 ### Host
 - 🐉 **GSC LOADER BO4**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/Gsc%20.Loader%20BO4.rar)
 
@@ -29,7 +28,6 @@
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); margin: 20px 0;">
 
 ## 🎮 ![Call of Duty: Black Ops Ⅲ](https://img.shields.io/badge/Black_Ops_3-E50914?style=for-the-badge&logo=netflix&logoColor=white)
-
 ### Host
 - 🐱‍💻 **GSC LOADER BO3**: [Clique ici](https://www.mediafire.com/file/cgy6n21tlyy7bfm/GSC+injector.zip/file)
   
@@ -49,7 +47,6 @@
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); margin: 20px 0;">
 
 ## 🛡️ ![Call of Duty: Black Ops Ⅱ](https://img.shields.io/badge/Black_Ops_2-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
-
 ### No-Host
 - 👁️‍🗨️ **ESP**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/Black-Ops-II_.dll)
   
@@ -69,7 +66,6 @@
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); margin: 20px 0;">
 
 ## 🎯 ![Call of Duty: Black Ops Ⅰ](https://img.shields.io/badge/Black_Ops_1-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
-
 ### No-Host
 - 🐉 **Drg_Zm**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/bo1p.dll)
   
@@ -87,7 +83,6 @@
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); margin: 20px 0;">
 
 ## ⚔️ ![Call of Duty: World at War](https://img.shields.io/badge/World_at%20_War-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 ### Host
 - 🎮 **MP|FreshModded**: [Clique ici](https://www.mediafire.com/file/qpokcmor7ozmf0i/Fresh+Modders+-+T4+Mod+Menu.7z/file)
   
@@ -96,13 +91,12 @@
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); margin: 20px 0;">
 
 ## 🎮 ![Call of Duty: Modern Warfare 3](https://img.shields.io/badge/M_W_3-60a5fa?style=for-the-badge&logo=biome&logoColor=white)
-
 ### Host
 - 🔫 **Apocalypse**: [Clique ici](https://www.mediafire.com/file/fecf58y7561pzpr/Apocalypse+MW3+Menu.rar/file)
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); margin: 20px 0;">
 
-## 🌐 ![Call of Duty | Plutonium | XLABS](https://custom-icon-badges.demolab.com/badge/controller-purple.svg?logo=controller)
+## 🌐 [Call of Duty | Plutonium | XLABS](https://custom-icon-badges.demolab.com/badge/controller-purple.svg?logo=controller)
 - [Download Games Cod Free](http://cod-fr.mygamesonline.org/jeux/index.html)
 - [Serveur Play 1](https://getserve.rs/)
 - [Serveur Play 2](http://api.raidmax.org:5000/servers)
