@@ -15,10 +15,6 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
-
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1184104514974928968/1245630000627978371/channels4_profile.jpg?ex=665972d6&is=66582156&hm=b731796f8fe6e1f223e9c904a610bdf61d336a7cd935bdbb98323636a14bec0c&=&format=webp&width=264&height=264" alt="COD Logo" width="150" height="150">
-</p>
 ---
 
 ## 🕹️ ![Call of Duty: Black Ops IV](https://img.shields.io/badge/Call%20of%20Duty%3A%20Black%20Ops%20IV-blue)
@@ -102,5 +98,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1184104514974928968/1245630001055924284/Cod.png?ex=665972d6&is=66582156&hm=e99bb26d9fb497f6e5f4b7e30e95142ee6c1c8c0cecd8e2225c4c75274a1803a&=&format=webp&quality=lossless&width=700&height=700" alt="Joueur Logo" width="200" height="200">
+  <img src="https://media.discordapp.net/attachments/1184104514974928968/1245630000627978371/channels4_profile.jpg?ex=665972d6&is=66582156&hm=b731796f8fe6e1f223e9c904a610bdf61d336a7cd935bdbb98323636a14bec0c&=&format=webp&width=264&height=264" alt="Joueur Logo" width="200" height="200">
 </p>
