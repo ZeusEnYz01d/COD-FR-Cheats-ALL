@@ -1,9 +1,13 @@
-<h1 align="center" style="color:#FFD700;">
-  🎮 Bienvenue ! Cheat All Game / 100% Sûr et Gratuit 🎮
+<h1 align="center">
+  <img src="https://i.ibb.co/KhJ5b1M/cheat-all-game.png" alt="Cheat All Game">
+  <br>
+  Cheat All Game
+  <br>
+  <span style="font-size: 20px;">💯 100% Sûr et Gratuit 💯</span>
 </h1>
 
 <p align="center">
-  Merci de rejoindre notre discord
+  Bienvenue sur notre page GitHub ! Merci de rejoindre notre communauté sur Discord.
 </p>
 
 <p align="center">
