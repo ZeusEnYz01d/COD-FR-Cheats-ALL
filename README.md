@@ -55,13 +55,13 @@
 - 🌐 **Get-Ip_Serveur**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/PLUTONIUM%20SERVER%20GET%20IP%20(BY%20EFK)%20V2_[unknowncheats.me]_.zip)
 
 ### Host
-- 🦇 **🥷 BatMan V14.8**: [Clique ici](https://www.mediafire.com/file/1prbd797z7p7d2k/BatMan+V14.8.rar)
+- 🦇 **🥷BatMan V14.8** : [Clique ici](https://www.mediafire.com/file/1prbd797z7p7d2k/BatMan+V14.8.rar)
   
-- 🌟 **🥷 Keabadian V1**: [Clique ici](https://www.mediafire.com/file/tuk22bp83ozkevw/Keabadian_v2.0.zip/file)
+- 🌟 **🥷Keabadian V1**: [Clique ici](https://www.mediafire.com/file/tuk22bp83ozkevw/Keabadian_v2.0.zip/file)
   
-- 🔥 **🧟‍♂️ VengeanceV2**: [Clique ici](https://drive.proton.me/urls/YKPKX26Z0G#rPnuRnlAe6wj)
+- 🔥 **🧟‍♂️VengeanceV2**: [Clique ici](https://drive.proton.me/urls/YKPKX26Z0G#rPnuRnlAe6wj)
   
-- 🧰 **🧟‍♂️ RMT**: [Clique ici](https://www.mediafire.com/file/ow37neconkyelr1/rmt_zombies_menu_v2.6_mod_menu-compiled.gsc/file)
+- 🧰 **🧟‍♂️RMT**: [Clique ici](https://www.mediafire.com/file/ow37neconkyelr1/rmt_zombies_menu_v2.6_mod_menu-compiled.gsc/file)
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); margin: 20px 0;">
 
@@ -72,21 +72,21 @@
 - 🔍 **FOV/UAV/Blackbird**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/bo1%20tool_[unknowncheats.me]_.zip)
 
 ### Host
-- 🩸 **🥷 Redemption**: [Clique ici](https://github.com/roachnacs/redemption-bo1-gsc/releases/tag/v2.1)
+- 🩸 **🥷Redemption**: [Clique ici](https://github.com/roachnacs/redemption-bo1-gsc/releases/tag/v2.1)
   
-- ⚙️ **🥷 IMCSx**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/mp_iMCSxs_Mod_Menu.rar)
+- ⚙️ **🥷IMCSx**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/mp_iMCSxs_Mod_Menu.rar)
   
-- 🔬 **🧟‍♂️ Encore**: [Clique ici](https://www.mediafire.com/file/z2l7dtufsyg2ejv/EncoreV8+Zombies.rar/file)
+- 🔬 **🧟‍♂️Encore**: [Clique ici](https://www.mediafire.com/file/z2l7dtufsyg2ejv/EncoreV8+Zombies.rar/file)
   
-- 🗿 **🧟‍♂️ Physics**: [Clique ici](https://mega.nz/file/vdsAnQgA#LcQE-KsRFHbCYZQWwXzthG8N3cZNijYyYZRdLDQKLPo)
+- 🗿 **🧟‍♂️Physics**: [Clique ici](https://mega.nz/file/vdsAnQgA#LcQE-KsRFHbCYZQWwXzthG8N3cZNijYyYZRdLDQKLPo)
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); margin: 20px 0;">
 
 ## ![Call of Duty: World at War](https://img.shields.io/badge/World_at%20_War-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ### Host
-- 🚁 **🥷 FreshModded**: [Clique ici](https://www.mediafire.com/file/qpokcmor7ozmf0i/Fresh+Modders+-+T4+Mod+Menu.7z/file)
+- 🚁 **🥷FreshModded**: [Clique ici](https://www.mediafire.com/file/qpokcmor7ozmf0i/Fresh+Modders+-+T4+Mod+Menu.7z/file)
   
-- 🧟 **🧟‍♂️ Discarded V3**: [Clique ici](https://www.mediafire.com/file/9nd4586xx0fhehv/Discarded+V3+-+T4+Mod+Menu.7z/file)
+- 🧟 **🧟‍♂️Discarded V3**: [Clique ici](https://www.mediafire.com/file/9nd4586xx0fhehv/Discarded+V3+-+T4+Mod+Menu.7z/file)
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); margin: 20px 0;">
 
