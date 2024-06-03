@@ -18,10 +18,10 @@
 
 ## ![Call of Duty: Black Ops IV](https://img.shields.io/badge/Black_Ops%204-44D62D?style=for-the-badge&logo=razer&logoColor=252525)
 ### Host
-- 🐉 **GSC LOADER BO4**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/Gsc%20.Loader%20BO4.rar)
+- 🔋 **GSC LOADER BO4**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/Gsc%20.Loader%20BO4.rar)
 
 ### No-Host
-- 🎯 **Unlock All | TEMPS**: [Clique ici](https://mega.nz/file/UasjBQJZ#3MT20fpnCZh3D73zBIh6yIX2yNT6Bh3SydtkG62DZMY)
+- 💵 **Unlock All | TEMPS**: [Clique ici](https://mega.nz/file/UasjBQJZ#3MT20fpnCZh3D73zBIh6yIX2yNT6Bh3SydtkG62DZMY)
   
 - 💎 **Mxt Plasma**: [Clique ici](https://www.mediafire.com/file/2wbkjexl6csztp7/MXT_BO4_1.0.1.dll/file)
 
@@ -29,18 +29,18 @@
 
 ## ![Call of Duty: Black Ops Ⅲ](https://img.shields.io/badge/Black_Ops_3-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 ### Host
-- 🐱‍💻 **GSC LOADER BO3**: [Clique ici](https://www.mediafire.com/file/cgy6n21tlyy7bfm/GSC+injector.zip/file)
+- 🪪 **GSC LOADER BO3**: [Clique ici](https://www.mediafire.com/file/cgy6n21tlyy7bfm/GSC+injector.zip/file)
   
 ### No-Host
-- 💥 **Mxt**: [Clique ici](https://www.mediafire.com/file/zq2w719xpfjpk05/MXT+1.1.2.zip/file)
+- 🧿 **Mxt**: [Clique ici](https://www.mediafire.com/file/zq2w719xpfjpk05/MXT+1.1.2.zip/file)
  
 - 💡 **Scropts**: [Clique ici](https://mega.nz/file/oaUmDRLb#lLC9fxgjiFBL09wjCOBr7B13OaoKrwLXXo3GzEr5UuU)
  
-- 💪 **GodNess**: [Clique ici](https://pastebin.com/iUVPmvRx)
+- 🦠 **GodNess**: [Clique ici](https://pastebin.com/iUVPmvRx)
  
 - 👻 **Phantom**: [Clique ici](https://mega.nz/file/tWVkhRia#JehoVcYGJkFXhKOSiu0pSQTLBUaB3wIHuWPIwbzhP7I)
  
-- 😎 **AlwaysLose**: [Clique ici](https://discord.gg/cod-fr)
+- 🌡️ **AlwaysLose**: [Clique ici](https://discord.gg/cod-fr)
   
 - ⚔️ **Nidavellir**: [Clique ici](https://discord.gg/cod-fr)
 
@@ -55,13 +55,13 @@
 - 🌐 **Get-Ip_Serveur**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/PLUTONIUM%20SERVER%20GET%20IP%20(BY%20EFK)%20V2_[unknowncheats.me]_.zip)
 
 ### Host
-- 🦇 **MP|BatMan V14.8**: [Clique ici](https://www.mediafire.com/file/1prbd797z7p7d2k/BatMan+V14.8.rar)
+- 🦇 **🥷 BatMan V14.8**: [Clique ici](https://www.mediafire.com/file/1prbd797z7p7d2k/BatMan+V14.8.rar)
   
-- 🌟 **MP|Keabadian V1**: [Clique ici](https://www.mediafire.com/file/tuk22bp83ozkevw/Keabadian_v2.0.zip/file)
+- 🌟 **🥷 Keabadian V1**: [Clique ici](https://www.mediafire.com/file/tuk22bp83ozkevw/Keabadian_v2.0.zip/file)
   
-- 🔥 **ZM|VengeanceV2**: [Clique ici](https://drive.proton.me/urls/YKPKX26Z0G#rPnuRnlAe6wj)
+- 🔥 **🧟‍♂️ VengeanceV2**: [Clique ici](https://drive.proton.me/urls/YKPKX26Z0G#rPnuRnlAe6wj)
   
-- 🔫 **ZM|RMT**: [Clique ici](https://www.mediafire.com/file/ow37neconkyelr1/rmt_zombies_menu_v2.6_mod_menu-compiled.gsc/file)
+- 🧰 **🧟‍♂️ RMT**: [Clique ici](https://www.mediafire.com/file/ow37neconkyelr1/rmt_zombies_menu_v2.6_mod_menu-compiled.gsc/file)
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); margin: 20px 0;">
 
@@ -72,27 +72,27 @@
 - 🔍 **FOV/UAV/Blackbird**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/bo1%20tool_[unknowncheats.me]_.zip)
 
 ### Host
-- 🛡️ **MP|Redemption**: [Clique ici](https://github.com/roachnacs/redemption-bo1-gsc/releases/tag/v2.1)
+- 🩸 **🥷 Redemption**: [Clique ici](https://github.com/roachnacs/redemption-bo1-gsc/releases/tag/v2.1)
   
-- ⚙️ **MP|IMCSx**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/mp_iMCSxs_Mod_Menu.rar)
+- ⚙️ **🥷 IMCSx**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/mp_iMCSxs_Mod_Menu.rar)
   
-- 🔬 **ZM|Encore**: [Clique ici](https://www.mediafire.com/file/z2l7dtufsyg2ejv/EncoreV8+Zombies.rar/file)
+- 🔬 **🧟‍♂️ Encore**: [Clique ici](https://www.mediafire.com/file/z2l7dtufsyg2ejv/EncoreV8+Zombies.rar/file)
   
-- ⚛️ **ZM|Physics**: [Clique ici](https://mega.nz/file/vdsAnQgA#LcQE-KsRFHbCYZQWwXzthG8N3cZNijYyYZRdLDQKLPo)
+- 🗿 **🧟‍♂️ Physics**: [Clique ici](https://mega.nz/file/vdsAnQgA#LcQE-KsRFHbCYZQWwXzthG8N3cZNijYyYZRdLDQKLPo)
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); margin: 20px 0;">
 
 ## ![Call of Duty: World at War](https://img.shields.io/badge/World_at%20_War-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ### Host
-- 🎮 **MP|FreshModded**: [Clique ici](https://www.mediafire.com/file/qpokcmor7ozmf0i/Fresh+Modders+-+T4+Mod+Menu.7z/file)
+- 🚁 **🥷 FreshModded**: [Clique ici](https://www.mediafire.com/file/qpokcmor7ozmf0i/Fresh+Modders+-+T4+Mod+Menu.7z/file)
   
-- 🧟 **ZM|Discarded V3**: [Clique ici](https://www.mediafire.com/file/9nd4586xx0fhehv/Discarded+V3+-+T4+Mod+Menu.7z/file)
+- 🧟 **🧟‍♂️ Discarded V3**: [Clique ici](https://www.mediafire.com/file/9nd4586xx0fhehv/Discarded+V3+-+T4+Mod+Menu.7z/file)
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); margin: 20px 0;">
 
 ## ![Call of Duty: Modern Warfare 3](https://img.shields.io/badge/M_W_3-60a5fa?style=for-the-badge&logo=biome&logoColor=white)
 ### Host
-- 🔫 **Apocalypse**: [Clique ici](https://www.mediafire.com/file/fecf58y7561pzpr/Apocalypse+MW3+Menu.rar/file)
+- 📟 **Apocalypse**: [Clique ici](https://www.mediafire.com/file/fecf58y7561pzpr/Apocalypse+MW3+Menu.rar/file)
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); margin: 20px 0;">
 
