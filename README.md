@@ -96,7 +96,7 @@
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); margin: 20px 0;">
 
-## 🌐 [Call of Duty | Plutonium | XLABS](https://custom-icon-badges.demolab.com/badge/controller-purple.svg?logo=controller)
+## 🌐 Call of Duty | Plutonium | XLABS
 - [Download Games Cod Free](http://cod-fr.mygamesonline.org/jeux/index.html)
 - [Serveur Play 1](https://getserve.rs/)
 - [Serveur Play 2](http://api.raidmax.org:5000/servers)
