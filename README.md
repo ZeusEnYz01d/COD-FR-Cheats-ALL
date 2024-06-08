@@ -8,7 +8,6 @@
 </p>
 
 <p align="center">
- ![Discord Banner 2](https://discord.com/api/guilds/1182223934276513893/widget.png?style=banner2)
   <img src="https://discord.com/api/guilds/1182223934276513893/widget.png?style=banner2" alt="https://discord.gg/cod-fr"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UCemI3wc64mr-lCyVysZZ0Eg">
