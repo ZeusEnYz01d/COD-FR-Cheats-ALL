@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://discord.gg/cod-fr">
 <img src ="https://dcbadge.limes.pink/api/server/https://discord.gg/cod-fr">
   </a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UCemI3wc64mr-lCyVysZZ0Eg">
