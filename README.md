@@ -8,8 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/cod-fr">
-    <img src="![Discord Shield]https://discord.com/api/guilds/1182223934276513893/widget.png?style=shield)" alt="Discord">
+<img src ="https://dcbadge.limes.pink/api/server/https://discord.gg/cod-fr">
   </a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UCemI3wc64mr-lCyVysZZ0Eg">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
