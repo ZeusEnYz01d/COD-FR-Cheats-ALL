@@ -1,4 +1,3 @@
-[![HAAAAAAA](https://svg-banners.vercel.app/api?type=textBox&text1=Joueurs%20De%20Cod%20🤖&width=800&height=400)](https://discord.gg/cod-fr)
 <h1 align="center">
   <span style="color:#FFD700;">🚀 Bienvenue sur Le Github | Joueurs de COD ! 🎮</span>
 </h1>
