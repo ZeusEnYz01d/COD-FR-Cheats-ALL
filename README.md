@@ -40,17 +40,11 @@
 - 👻 **Phantom**: [Clique ici](https://mega.nz/file/tWVkhRia#JehoVcYGJkFXhKOSiu0pSQTLBUaB3wIHuWPIwbzhP7I)
  
 - 🌡️ **AlwaysLose**: [Clique ici](https://discord.gg/cod-fr)
-  
-- ⚔️ **Nidavellir**: [Clique ici](https://discord.gg/cod-fr)
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); margin: 20px 0;">
 
 ## ![Call of Duty: Black Ops Ⅱ](https://img.shields.io/badge/Black_Ops_2-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
 ### No-Host
-- 👁️‍🗨️ **ESP**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/Black-Ops-II_.dll)
-  
-- 🔫 **VSAT + NORECOIL**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/VSAT%20BY%20EFK.dll)
-  
 - 🌐 **Get-Ip_Serveur**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/PLUTONIUM%20SERVER%20GET%20IP%20(BY%20EFK)%20V2_[unknowncheats.me]_.zip)
 
 ### Host
@@ -66,7 +60,6 @@
 
 ## ![Call of Duty: Black Ops Ⅰ](https://img.shields.io/badge/Black_Ops_1-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
 ### No-Host
-- 🐉 **Drg_Zm**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/bo1p.dll)
   
 - 🔍 **FOV/UAV/Blackbird**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/bo1%20tool_[unknowncheats.me]_.zip)
 
