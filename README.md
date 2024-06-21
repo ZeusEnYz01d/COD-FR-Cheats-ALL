@@ -73,10 +73,12 @@
 ## ![Call of Duty: World at War](https://img.shields.io/badge/World_at%20_War-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Host
+- 🎃 **Phen6mTrickshotting**: [Clique ici](https://www.mediafire.com/file/nxo4d0h11nzph1l/phen6m_World_at_War_v4_%2528PC%2529.rar/file)
 - 🏴‍☠️ **FreshModded**: [Clique ici](https://www.mediafire.com/file/qpokcmor7ozmf0i/Fresh+Modders+-+T4+Mod+Menu.7z/file)
+- 🌹 **The Hidden Gold V5.1**: [Clique ici](https://drive.google.com/file/d/1nHvUu-q_v77trTqBmix6vDVNyZx9oFGc/view?usp=drive_link)
  
 - 🧟‍♂️ **Discarded V3**: [Clique ici](https://www.mediafire.com/file/9nd4586xx0fhehv/Discarded+V3+-+T4+Mod+Menu.7z/file)
-
+- 🐱‍👤 **Elasticity V1**: [Clique ici](https://mega.nz/file/TZwHXKyY#2Lb6WYIjiBCDKvvUjRBVPPNIxXv35KJogWM3BzAuyS0)
 ---
 
 ## ![Call of Duty: Modern Warfare 3](https://img.shields.io/badge/M_W_3-60a5fa?style=for-the-badge&logo=biome&logoColor=white)
