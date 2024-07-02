@@ -15,7 +15,7 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## ![Call of Duty: Black Ops IV](https://img.shields.io/badge/Black_Ops%204-44D62D?style=for-the-badge&logo=razer&logoColor=252525)
 
@@ -42,7 +42,7 @@
 - 👻 **Phantom**: [Clique ici](https://mega.nz/file/tWVkhRia#JehoVcYGJkFXhKOSiu0pSQTLBUaB3wIHuWPIwbzhP7I)
 - 🌡️ **AlwaysLose**: [Clique ici](https://discord.gg/cod-fr)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## ![Call of Duty: Black Ops Ⅱ](https://img.shields.io/badge/Black_Ops_2-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
 
@@ -52,11 +52,11 @@
 ### Host
 - 🦇 **VMT**: [Clique ici](https://www.mediafire.com/file/46f0gswvus88jpu/vmt_mod_menu-compiled.gsc/file)
 - 🦸 **Keabadian V1**: [Clique ici](https://www.mediafire.com/file/tuk22bp83ozkevw/Keabadian_v2.0.zip/file)
-- - 🧟
+-  🧟
 - 🧟 **VengeanceV2**: [Clique ici](https://drive.proton.me/urls/YKPKX26Z0G#rPnuRnlAe6wj)
 - 🧠 **RMT**: [Clique ici](https://www.mediafire.com/file/ow37neconkyelr1/rmt_zombies_menu_v2.6_mod_menu-compiled.gsc/file)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## ![Call of Duty: Black Ops Ⅰ](https://img.shields.io/badge/Black_Ops_1-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
 
@@ -66,11 +66,11 @@
 ### Host
 - 🦹 **Redemption**: [Clique ici](https://github.com/roachnacs/redemption-bo1-gsc/releases/tag/v2.1)
 - 🧙 **IMCSx**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/mp_iMCSxs_Mod_Menu.rar)
-- - 🧟
+-  🧟
 - 🧛 **Encore**: [Clique ici](https://www.mediafire.com/file/z2l7dtufsyg2ejv/EncoreV8+Zombies.rar/file)
 - 🧜 **Physics**: [Clique ici](https://mega.nz/file/vdsAnQgA#LcQE-KsRFHbCYZQWwXzthG8N3cZNijYyYZRdLDQKLPo)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## ![Call of Duty: World at War](https://img.shields.io/badge/World_at%20_War-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -81,51 +81,26 @@
 - - 🧟 
 - 🧟‍♂️ **Discarded V3**: [Clique ici](https://www.mediafire.com/file/9nd4586xx0fhehv/Discarded+V3+-+T4+Mod+Menu.7z/file)
 - 🐱‍👤 **Elasticity V1**: [Clique ici](https://mega.nz/file/TZwHXKyY#2Lb6WYIjiBCDKvvUjRBVPPNIxXv35KJogWM3BzAuyS0)
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## ![Call of Duty: Modern Warfare 3](https://img.shields.io/badge/M_W_3-60a5fa?style=for-the-badge&logo=biome&logoColor=white)
 
 ### Host
 - ⚔️ **Apocalypse**: [Clique ici](https://www.mediafire.com/file/fecf58y7561pzpr/Apocalypse+MW3+Menu.rar/file)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## 🌐 Call of Duty | Plutonium | XLABS
 - [Download Games Cod Free](http://cod-fr.mygamesonline.org/jeux/index.html)
 - [Serveur Play 1](https://getserve.rs/)
 - [Serveur Play 2](http://api.raidmax.org:5000/servers)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <h1 align="center">
   <img src="https://media.discordapp.net/attachments/1184104514974928968/1246897145400000653/3dgifmaker34116.gif?ex=665e0ef5&is=665cbd75&hm=88908bd28bf269ad33a161d6954e1e0bc2ca48a3ea95e49c5e12873f08420da5&=&width=375&height=375" alt="Joueur Logo" width="250" height="250"><br>
 </h1>
 
 ## 📚 Inject Tuto
-
-### Black Ops I
-- **Host | MP**: [Tuto link](https://www.youtube.com/watch?v=4lusHG_ZSKo&t=2s)
-- **Host | ZM**: [Tuto link](https://www.youtube.com/watch?v=HVbjRatiF1Y&t=1s)
-
-### Black Ops II
-- **Host | MP**: [Tuto link](https://www.youtube.com/watch?v=m9l4jLehu-Y)
-- **Host | ZM**: [Tuto link](https://youtu.be/l6f-O4Z4JKg?si=0NTuaIXebNPjFFCU)
-
-### Black Ops III
-- **Host | MP**: [Tuto link](https://youtu.be/B3_8KMSgzdo?si=aZ8SIonFB7lR2Osn)
-- **Host | ZM**: [Tuto link](https://www.youtube.com/watch?v=q-zIaf80XRg)
-- **No-Host | MP**: [Tuto link](https://www.youtube.com/watch?v=ijmKxoNPjyU)
-
-### Black Ops IIII
-- **Host | MP**: [Tuto link](https://www.youtube.com/watch?v=rHzwIVTcK6k)
-- **Host | ZM**: [Tuto link](https://www.youtube.com/watch?v=C8L3HCaan1c)
-- **No-Host | ZM-MP | Unlock all**: [Tuto link](https://youtu.be/ih_qaCF1lF0?si=6oJb7Nx_eP4hvLh2)
-- **No-Host | ZM | MXT | PLASMA & MAX RANK TOOL**: [Tuto link](https://youtu.be/D0ybW_gimK0?si=bBe1h8ye-IJUetkq)
-
-### World at War
-- **Host | ZM**: [Tuto link](https://www.youtube.com/watch?v=7yL5LN2uR6c)
-- **Host | MP**: [Tuto link]()
-
-### Modern Warfare 3
-- **Host**: [Tuto link](https://www.youtube.com/watch?v=CBGFgtzuFIA)
-- **No-Host**: [Tuto link](https://www.youtube.com/watch?v=80IjsTfnvYI)
+# https://zeusenyz01d.github.io/hello.html
