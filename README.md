@@ -37,7 +37,7 @@
 ### No-Host
 - ☢ **VxnOiP**: [Clique ici](https://mega.nz/file/oaUmDRLb#lLC9fxgjiFBL09wjCOBr7B13OaoKrwLXXo3GzEr5UuU)
 - 🧩 **Mxt**: [Clique ici](https://www.mediafire.com/file/zq2w719xpfjpk05/MXT+1.1.2.zip/file)
-- 🎯 **Scropts**: [Clique ici](https://mega.nz/file/oaUmDRLb#lLC9fxgjiFBL09wjCOBr7B13OaoKrwLXXo3GzEr5UuU)
+- 🎯 **UPDATE Scropts**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/Scropts%20QOL%20v2.1.0__.dll)
 - 🦄 **GodNess**: [Clique ici](https://pastebin.com/iUVPmvRx)
 - 👻 **Phantom**: [Clique ici](https://mega.nz/file/tWVkhRia#JehoVcYGJkFXhKOSiu0pSQTLBUaB3wIHuWPIwbzhP7I)
 - 🌡️ **AlwaysLose**: [Clique ici](https://discord.gg/cod-fr)
