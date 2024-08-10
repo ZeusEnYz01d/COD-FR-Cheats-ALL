@@ -91,10 +91,19 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-## 🌐 Call of Duty | Plutonium | XLABS
+## ![Call of Duty: Modern Warfare 2](https://img.shields.io/badge/MW2-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### Host
+- 😎 **XEPixTVx V18 : Pack ( Three-in-One ) **: [Clique ici](https://www.mediafire.com/file/fecf58y7561pzpr/Apocalypse+MW3+Menu.rar/file)
+  
+### No-Host
+- 🕶️ **Exodus**: [Clique ici](https://www.mediafire.com/file/fecf58y7561pzpr/Apocalypse+MW3+Menu.rar/file)
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+## 🌐 Download Call of Duty | Plutonium | XLABS
 - [Download Games Cod Free](http://cod-fr.mygamesonline.org/jeux/index.html)
-- [Serveur Play 1](https://getserve.rs/)
-- [Serveur Play 2](http://api.raidmax.org:5000/servers)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
