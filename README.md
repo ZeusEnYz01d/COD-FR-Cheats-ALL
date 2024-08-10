@@ -17,7 +17,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-## ![Call of Duty: Black Ops Cold War](https://img.shields.io/badge/Cold%War-5865F2?style=flat&logo=discord&logoColor=white)
+## ![Call of Duty: Black Ops Cold War](https://img.shields.io/badge/Cold%20War-5865F2?style=flat&logo=discord&logoColor=white)
 ### Host
 - 🎓 **Camo Tool**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/Color+Unlock.dll)
 - 🎬 **Aien GSC**:  [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/Color+Unlock.dll)
