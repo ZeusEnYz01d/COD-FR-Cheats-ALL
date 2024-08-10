@@ -15,7 +15,7 @@
   </a>
 </p>
 
-#![Call of Duty: Black Ops Cold War](https://img.shields.io/badge/Cold%20War-5865F2?style=flat&logo=discord&logoColor=white)
+![Call of Duty: Black Ops Cold War](https://img.shields.io/badge/Cold%20War-5865F2?style=flat&logo=discord&logoColor=white)
 ### Host
 
 Mods Zm : 
