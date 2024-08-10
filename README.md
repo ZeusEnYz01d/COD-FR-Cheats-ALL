@@ -15,7 +15,7 @@
   </a>
 </p>
 
-![Call of Duty: Black Ops Cold War](https://img.shields.io/badge/Cold%20War-5865F2?style=flat&logo=discord&logoColor=white)
+[Call of Duty: Black Ops Cold War](https://img.shields.io/badge/Cold%20War-5865F2?style=flat&logo=discord&logoColor=white)
 ### Host
 
 Mods Zm : 
@@ -23,12 +23,12 @@ Mods Zm :
 - **Camo Tool**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/Color+Unlock.dll)
 - **Aien GSC**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/Color+Unlock.dll)
 
-## ![Call of Duty: Warzone](https://img.shields.io/badge/Warzone$-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+[Call of Duty: Warzone](https://img.shields.io/badge/Warzone$-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ### No-Host
 - **Engine Owning**: [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/Color+Unlock.dll)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-#![Call of Duty: Black Ops IV](https://img.shields.io/badge/Black_Ops%204-44D62D?style=for-the-badge&logo=razer&logoColor=252525)
+[Call of Duty: Black Ops IV](https://img.shields.io/badge/Black_Ops%204-44D62D?style=for-the-badge&logo=razer&logoColor=252525)
 
 ### Host
 Mods Zm/Mp : 
