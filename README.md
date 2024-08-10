@@ -9,7 +9,6 @@ Merci de rejoindre notre [Discord](https://discord.gg/cod-fr).
 
 ## 📜 Liste des Mods par Jeu
 
-<img src="https://raw.githubusercontent.com/ZeusEnYz01d/Gsc-Cod/main/klej-ezgif.com-resize.gif"><br>
 
 
 ### ![Call of Duty: Black Ops Cold War](https://img.shields.io/badge/Cold%20War-5865F2?style=flat&logo=discord&logoColor=white)
