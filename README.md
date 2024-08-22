@@ -15,7 +15,7 @@ Merci de rejoindre notre [Discord](https://discord.gg/cod-fr).
 
 **Host (Mods Zm,Mp)**:
 - **Camo Tool**: [Télécharger ici](http://joueursdecodfr.mygamesonline.org/leak/Release.rar)
-- **Atien(ZM),ProjectHiNAtyu(MP,ZM) GSC(+Injector)**: [Télécharger ici](http://joueursdecodfr.mygamesonline.org/leak/acts.zip)
+- **Atien(ZM) + ProjectHiNAtyu(MP,ZM) GSC (+Injector)**: [Télécharger ici](http://joueursdecodfr.mygamesonline.org/leak/acts.zip)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
