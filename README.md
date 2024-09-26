@@ -32,11 +32,15 @@ Merci de rejoindre notre [Discord](https://discord.gg/cod-fr).
 
 **Host (Mods Zm/Mp)**:
 - **GSC LOADER BO4**: [Télécharger ici](http://joueursdecodfr.mygamesonline.org/leak/Gsc%20.Loader%20BO4.rar)
+- **GSC - Lucy** > ZM [Télécharger ici](https://github.com/TheUnknownCod3r/BO4-Lucy-Menu)
+- **GSC - Lucy** > MP [Télécharger ici](https://github.com/TheUnknownCod3r/BO4-Lucy-MP-Base)
+- **GSC - Atien** > ZM,MP,BLK [Télécharger ici](https://github.com/ate47/t8-atian-menu/releases/tag/latest_build)
+- **GSC - Abomination** > ZM [Télécharger ici](https://github.com/SirCryptic/Abomination-Unofficial)
 
 **No-Host**:
-- **Unlock All + COLOR NAME**: [Télécharger ici](http://joueursdecodfr.mygamesonline.org/leak/Color+Unlock.dll)
-- **Unlock All | TEMPS**: [Télécharger ici](https://mega.nz/file/UasjBQJZ#3MT20fpnCZh3D73zBIh6yIX2yNT6Bh3SydtkG62DZMY)
-- **Mxt Plasma**: [Télécharger ici](https://www.mediafire.com/file/2wbkjexl6csztp7/MXT_BO4_1.0.1.dll/file)
+- **Unlock All + COLOR NAME >TEMPS**: [Télécharger ici](http://joueursdecodfr.mygamesonline.org/leak/Color+Unlock.dll)
+- **Unlock All > TEMPS**: [Télécharger ici](https://mega.nz/file/UasjBQJZ#3MT20fpnCZh3D73zBIh6yIX2yNT6Bh3SydtkG62DZMY)
+- **Mxt Plasma > ZM**: [Télécharger ici](https://www.mediafire.com/file/2wbkjexl6csztp7/MXT_BO4_1.0.1.dll/file)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
@@ -60,22 +64,20 @@ Merci de rejoindre notre [Discord](https://discord.gg/cod-fr).
 
 
 **Host**:
-- **VMT**: [Télécharger ici](https://www.mediafire.com/file/46f0gswvus88jpu/vmt_mod_menu-compiled.gsc/file)
-- **Keabadian V1**: [Télécharger ici](https://www.mediafire.com/file/tuk22bp83ozkevw/Keabadian_v2.0.zip/file)
-- Mod Zm
-- **VengeanceV2**: [Télécharger ici](https://drive.proton.me/urls/YKPKX26Z0G#rPnuRnlAe6wj)
-- **RMT**: [Télécharger ici](https://www.mediafire.com/file/ow37neconkyelr1/rmt_zombies_menu_v2.6_mod_menu-compiled.gsc/file)
+- **VMT** > MP: [Télécharger ici](https://www.mediafire.com/file/46f0gswvus88jpu/vmt_mod_menu-compiled.gsc/file)
+- **Keabadian V1** > MP: [Télécharger ici](https://www.mediafire.com/file/tuk22bp83ozkevw/Keabadian_v2.0.zip/file)
+- **VengeanceV2** > ZM: [Télécharger ici](https://drive.proton.me/urls/YKPKX26Z0G#rPnuRnlAe6wj)
+- **RMT** > ZM: [Télécharger ici](https://www.mediafire.com/file/ow37neconkyelr1/rmt_zombies_menu_v2.6_mod_menu-compiled.gsc/file)
 
 <img src="https://raw.githubusercontent.com/ZeusEnYz01d/Gsc-Cod/main/klej-ezgif.com-resize.gif"><br>
 
 ### ![Call of Duty: Black Ops I](https://img.shields.io/badge/Black_Ops_1-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
 
 **Host**:
-- **Redemption**: [Télécharger ici](https://github.com/roachnacs/redemption-bo1-gsc/releases/tag/v2.1)
-- **IMCSx**: [Télécharger ici](http://joueursdecodfr.mygamesonline.org/leak/mp_iMCSxs_Mod_Menu.rar)
-- Mod Zm 
-- **Encore**: [Télécharger ici](https://www.mediafire.com/file/z2l7dtufsyg2ejv/EncoreV8+Zombies.rar/file)
-- **Physics**: [Télécharger ici](https://mega.nz/file/vdsAnQgA#LcQE-KsRFHbCYZQWwXzthG8N3cZNijYyYZRdLDQKLPo)
+- **Redemption** > MP: [Télécharger ici](https://github.com/roachnacs/redemption-bo1-gsc/releases/tag/v2.1)
+- **IMCSx** > MP: [Télécharger ici](http://joueursdecodfr.mygamesonline.org/leak/mp_iMCSxs_Mod_Menu.rar) 
+- **Encore** > ZM: [Télécharger ici](https://www.mediafire.com/file/z2l7dtufsyg2ejv/EncoreV8+Zombies.rar/file)
+- **Physics** > ZM: [Télécharger ici](https://mega.nz/file/vdsAnQgA#LcQE-KsRFHbCYZQWwXzthG8N3cZNijYyYZRdLDQKLPo)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
