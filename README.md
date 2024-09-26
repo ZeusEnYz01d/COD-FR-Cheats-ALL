@@ -111,6 +111,16 @@ Merci de rejoindre notre [Discord](https://discord.gg/cod-fr).
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
+## 💉 Injector GSC 
+- Mw3 : [Plutonium](https://plutonium.pw/docs/modding/loading-mods/#:~:text=1.%20Navigate%20to%20the%20T6%20Plutonium%20scripts%20folder%20by%20pressing%20Win%2BR%20and%20pasting%20%25localappdata%25%5CPlutonium%5Cstorage%5Ct6%5Cscripts%20into%20it%2C%20and%20hitting%20Ok.)
+- World at War : [Plutonium](https://plutonium.pw/docs/modding/loading-mods/#:~:text=1.%20Navigate%20to%20the%20T6%20Plutonium%20scripts%20folder%20by%20pressing%20Win%2BR%20and%20pasting%20%25localappdata%25%5CPlutonium%5Cstorage%5Ct6%5Cscripts%20into%20it%2C%20and%20hitting%20Ok.)
+- Black Ops I : [Plutonium](https://plutonium.pw/docs/modding/loading-mods/#:~:text=1.%20Navigate%20to%20the%20T6%20Plutonium%20scripts%20folder%20by%20pressing%20Win%2BR%20and%20pasting%20%25localappdata%25%5CPlutonium%5Cstorage%5Ct6%5Cscripts%20into%20it%2C%20and%20hitting%20Ok.)
+- Black Ops II : [Steam](https://mega.nz/file/hDoGwAbR#j-9i3oIZyiAz13FULRTaxAiKQcSCOXo-44Lr977YfcQ)
+- Black Ops 2 : [Plutonium](https://plutonium.pw/docs/modding/loading-mods/#:~:text=1.%20Navigate%20to%20the%20T6%20Plutonium%20scripts%20folder%20by%20pressing%20Win%2BR%20and%20pasting%20%25localappdata%25%5CPlutonium%5Cstorage%5Ct6%5Cscripts%20into%20it%2C%20and%20hitting%20Ok.)
+- Black Ops 3 : [T7C](https://github.com/shiversoftdev/t7-compiler/releases/tag/current)
+- Black Ops 4 : [T7C](https://github.com/shiversoftdev/t7-compiler/releases/tag/current)
+-Black Ops Cold War : [ACTS](http://joueursdecodfr.mygamesonline.org/leak/Inject%20Cold%20War.zip) 
+
 ## 🌐 Télécharger Call of Duty
 - [Télécharger les Jeux](http://cod-fr.mygamesonline.org/jeux/index.html)
 
