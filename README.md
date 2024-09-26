@@ -1,15 +1,23 @@
 # 🚀 Bienvenue sur Le Github | Joueurs de COD ! 🎮
-
-Merci de rejoindre notre [Discord](https://discord.gg/cod-fr).
-
 [![Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/cod-fr)](https://discord.gg/cod-fr)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCemI3wc64mr-lCyVysZZ0Eg)
 
 ---
 
-## 📜 Liste des Mods par Jeu
-
-
+## 🦮 : Guide Github 
+# Cheat ⬇️
+➡️ # Cold War >
+➡️ # Warzone > 
+➡️ # Black ops 4 > 
+➡️ # Black ops 3 >
+➡️ # Black ops 2
+➡️ # Black ops 1
+➡️ # World at War
+➡️ # Modern Warfare 3
+➡️ # Modern Warfare 2
+➡️ #💉 Injector GSC 
+➡️ #🌐 Download Call of Duty 
+➡️ #📚 Tutoriels 
 
 ### ![Call of Duty: Black Ops Cold War](https://img.shields.io/badge/Cold%20War-5865F2?style=flat&logo=discord&logoColor=white)
 
@@ -119,10 +127,10 @@ Merci de rejoindre notre [Discord](https://discord.gg/cod-fr).
 - Black Ops 2 : [Plutonium](https://plutonium.pw/docs/modding/loading-mods/#:~:text=1.%20Navigate%20to%20the%20T6%20Plutonium%20scripts%20folder%20by%20pressing%20Win%2BR%20and%20pasting%20%25localappdata%25%5CPlutonium%5Cstorage%5Ct6%5Cscripts%20into%20it%2C%20and%20hitting%20Ok.)
 - Black Ops 3 : [T7C](https://github.com/shiversoftdev/t7-compiler/releases/tag/current)
 - Black Ops 4 : [T7C](https://github.com/shiversoftdev/t7-compiler/releases/tag/current)
--Black Ops Cold War : [ACTS](http://joueursdecodfr.mygamesonline.org/leak/Inject%20Cold%20War.zip) 
+- Black Ops Cold War : [ACTS](http://joueursdecodfr.mygamesonline.org/leak/Inject%20Cold%20War.zip) 
 
 ## 🌐 Télécharger Call of Duty
 - [Télécharger les Jeux](http://cod-fr.mygamesonline.org/jeux/index.html)
 
-## 📚 Tutoriels d'Injection
+## 📚 Tutoriels 
 - [Tutoriel](https://zeusenyz01d.github.io/hello.html)
