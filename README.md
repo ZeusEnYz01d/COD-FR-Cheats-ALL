@@ -68,7 +68,7 @@ Merci de rejoindre notre [Discord](https://discord.gg/cod-fr).
 - **VengeanceV2** > ZM: [Télécharger ici](https://drive.proton.me/urls/YKPKX26Z0G#rPnuRnlAe6wj)
 - **RMT** > ZM: [Télécharger ici](https://www.mediafire.com/file/ow37neconkyelr1/rmt_zombies_menu_v2.6_mod_menu-compiled.gsc/file)
 
-<img src="https://raw.githubusercontent.com/ZeusEnYz01d/Gsc-Cod/main/klej-ezgif.com-resize.gif"><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ### ![Call of Duty: Black Ops I](https://img.shields.io/badge/Black_Ops_1-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
 
