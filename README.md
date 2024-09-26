@@ -24,9 +24,8 @@ Merci de rejoindre notre [Discord](https://discord.gg/cod-fr).
 
 **No-Host**:
 - **Engine Owning**: [Télécharger ici](https://discord.gg/cod-fr)
-
-<img src="https://raw.githubusercontent.com/ZeusEnYz01d/Gsc-Cod/main/klej-ezgif.com-resize.gif"><br>
-
+ 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ### ![Call of Duty: Black Ops IV](https://img.shields.io/badge/Black_Ops%204-44D62D?style=for-the-badge&logo=razer&logoColor=252525)
 
