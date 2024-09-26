@@ -3,7 +3,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCemI3wc64mr-lCyVysZZ0Eg)
 
 ---
-## 🦮 : Guide Github 
+#🦮 : Guide Github 
 # Cheat ⬇️
 - ➡️ # [Cold War](https://github.com/ZeusEnYz01d/RoY-ChEaT?tab=readme-ov-file#)
 - ➡️ # [Warzone](https://github.com/ZeusEnYz01d/RoY-ChEaT?tab=readme-ov-file#-1) 
@@ -16,7 +16,7 @@
 - ➡️ # [Modern Warfare 2](https://github.com/ZeusEnYz01d/RoY-ChEaT?tab=readme-ov-file#-8)
 - ➡️ #[💉 Injector GSC](https://github.com/ZeusEnYz01d/RoY-ChEaT?tab=readme-ov-file#-injector-gsc)
 - ➡️ #[🌐 Download Call of Duty](https://github.com/ZeusEnYz01d/RoY-ChEaT?tab=readme-ov-file#-t%C3%A9l%C3%A9charger-call-of-duty) 
-- ➡️ #[📚 Tutoriels](https://github.com/ZeusEnYz01d/RoY-ChEaT?tab=readme-ov-file#-tutoriels-dinjection) 
+- ➡️ #[📚 Tutoriels](https://github.com/ZeusEnYz01d/RoY-ChEaT?tab=readme-ov-file#-tutoriels) 
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
