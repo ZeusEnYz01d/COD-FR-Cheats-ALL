@@ -14,6 +14,7 @@
 - ➡️  [World at War](https://github.com/ZeusEnYz01d/RoY-ChEaT?tab=readme-ov-file#-6)
 - ➡️  [Modern Warfare 3](https://github.com/ZeusEnYz01d/RoY-ChEaT?tab=readme-ov-file#-8)
 - ➡️  [Modern Warfare 2](https://github.com/ZeusEnYz01d/RoY-ChEaT?tab=readme-ov-file#-8)
+## Infos ⬇️ 
 - ➡️  [💉 Injector GSC](https://github.com/ZeusEnYz01d/RoY-ChEaT?tab=readme-ov-file#-injector-gsc)
 - ➡️  [🌐 Download Call of Duty](https://github.com/ZeusEnYz01d/RoY-ChEaT?tab=readme-ov-file#-t%C3%A9l%C3%A9charger-call-of-duty) 
 - ➡️  [📚 Tutoriels](https://github.com/ZeusEnYz01d/RoY-ChEaT?tab=readme-ov-file#-tutoriels) 
