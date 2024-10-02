@@ -1,7 +1,3 @@
-# 🎮 **Bienvenue sur l'archive de Joueurs de COD** 
-
-## 🎉 Rejoignez-nous pour des aventures épiques 
-
 ## 📢 Rejoignez notre serveur Discord ! 
 Nous avons un serveur Discord actif où vous pouvez discuter et vous connecter avec d'autres joueurs.
 ---
