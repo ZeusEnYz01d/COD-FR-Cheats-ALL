@@ -1,17 +1,11 @@
-# 🎮 **🚀 Bienvenue sur l'archive de  > Joueurs de COD !** 🎮
+# 🎮 **Bienvenue sur l'archive de Joueurs de COD** 
 
-## 🎉 Rejoignez-nous pour des aventures épiques ! 🎉
-
----
+## 🎉 Rejoignez-nous pour des aventures épiques 
 
 ## 📢 Rejoignez notre serveur Discord ! 
-
 Nous avons un serveur Discord actif où vous pouvez discuter et vous connecter avec d'autres joueurs.
-
 [![Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/cod-fr)](https://discord.gg/cod-fr)
-
 Pour plus d'informations, rejoignez-nous sur notre [serveur Discord](https://discord.gg/cod-fr).
-
 ---
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCemI3wc64mr-lCyVysZZ0Eg)
