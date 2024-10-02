@@ -1,5 +1,4 @@
-## 📢 Rejoignez notre serveur Discord ! 
-Nous avons un serveur Discord actif où vous pouvez discuter et vous connecter avec d'autres joueurs.
+# 📢 Rejoignez notre serveur Discord ! 
 ---
 
 [![Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/cod-fr)](https://discord.gg/cod-fr)
