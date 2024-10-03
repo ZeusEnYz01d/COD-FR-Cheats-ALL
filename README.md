@@ -15,7 +15,7 @@
 - ➡️  [Black ops 3](https://github.com/ZeusEnYz01d/RoY-ChEaT?tab=readme-ov-file#-3) 
 - ➡️  [Black ops 2](https://github.com/ZeusEnYz01d/RoY-ChEaT?tab=readme-ov-file#-4)
 - ➡️  [Black ops 1](https://github.com/ZeusEnYz01d/RoY-ChEaT?tab=readme-ov-file#-5)
-- ➡️  [IW](https://github.com/ZeusEnYz01d/COD-FR-Cheats-ALL#-6)
+- ➡️  [Infinite Warfare](https://github.com/ZeusEnYz01d/COD-FR-Cheats-ALL#-6)
 - ➡️  [World at War](https://github.com/ZeusEnYz01d/RoY-ChEaT?tab=readme-ov-file#-6)
 - ➡️  [Modern Warfare 3](https://github.com/ZeusEnYz01d/RoY-ChEaT?tab=readme-ov-file#-8)
 - ➡️  [Modern Warfare 2](https://github.com/ZeusEnYz01d/RoY-ChEaT?tab=readme-ov-file#-8)
