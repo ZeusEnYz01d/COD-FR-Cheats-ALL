@@ -90,6 +90,18 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 
+### ![Call of Duty: Infiniti Warfare](https://img.shields.io/badge/Call%20of%20Duty%20Infinite%20Warfare%20%20-8A2BE2)
+
+**No-Host**
+
+- **IW7 Public** : [Télécharger ici](https://mega.nz/file/oClHiKJB#5r7hCRlIglqqypikBHEq1cJ6YuEa3nGGjkRy_jYmu_o) 
+- **Infinite Warfare Unlock Tool** : [Télécharger ici](http://joueursdecodfr.mygamesonline.org/leak/IWUnlocker.zip)
+- **Complete Table** : [CHEAT ENGINE](https://www.mediafire.com/file/jae20rbqi0hh880/CodIW_hack.CT/file) 
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+
 ### ![Call of Duty: World at War](https://img.shields.io/badge/World_at%20_War-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Host**:
