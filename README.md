@@ -90,6 +90,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
+### ![Call of Duty:Ghost](https://img.shields.io/badge/Ghost-00000C?style=for-the-badge&logo=red&logoColor=white)
+
+**No-Host**:
+- **SeshHook** > MP: [Télécharger ici](http://joueursdecodfr.mygamesonline.org/leak/SeshHooks_Ghosts.zip)
 
 ### ![Call of Duty: Infiniti Warfare](https://img.shields.io/badge/Call%20of%20Duty%20Infinite%20Warfare%20%20-8A2BE2)
 
