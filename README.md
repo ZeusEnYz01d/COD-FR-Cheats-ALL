@@ -60,9 +60,9 @@
 - **GSC LOADER BO3**: [Télécharger ici](https://www.mediafire.com/file/cgy6n21tlyy7bfm/GSC+injector.zip/file)
 
 **No-Host**:
+- **Scropts v2.1.4**: [Télécharger ici](http://joueursdecodfr.mygamesonline.org/leak/Scropts%20QOL%20v2.1.4%20alpha.dll)
+- **Scropts v2.0.3**: [Télécharger ici](https://mega.nz/file/oaUmDRLb#lLC9fxgjiFBL09wjCOBr7B13OaoKrwLXXo3GzEr5UuU)
 - **Mxt**: [Télécharger ici](https://www.mediafire.com/file/zq2w719xpfjpk05/MXT+1.1.2.zip/file)
-- **UPDATE Scropts**: [Télécharger ici](http://joueursdecodfr.mygamesonline.org/leak/Scropts%20QOL%20v2.1.0__.dll)
-- **Scropts**: [Télécharger ici](https://mega.nz/file/oaUmDRLb#lLC9fxgjiFBL09wjCOBr7B13OaoKrwLXXo3GzEr5UuU)
 - **GodNess**: [Télécharger ici](https://pastebin.com/iUVPmvRx)
 - **Phantom**: [Télécharger ici](https://mega.nz/file/tWVkhRia#JehoVcYGJkFXhKOSiu0pSQTLBUaB3wIHuWPIwbzhP7I)
 - **AlwaysLose**: [Télécharger ici](https://discord.gg/cod-fr)
