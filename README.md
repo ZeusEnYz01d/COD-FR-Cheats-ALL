@@ -2,6 +2,7 @@
 ---
 
 [![Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/cod-fr)](https://discord.gg/cod-fr)
+<a href='https://disboard.org/fr/server/reviews/1182223934276513893' target="_blank"><img alt='linux' src='https://img.shields.io/badge/Reviews-100000?style=flat&logo=linux&logoColor=FFFFFF&labelColor=000000&color=6A00FF'/></a>
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCemI3wc64mr-lCyVysZZ0Eg)
 # 🦮 : Guide Github 
 ## Infos ⬇️ 
